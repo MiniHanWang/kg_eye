@@ -1,0 +1,2126 @@
+﻿id,item
+0,TCM Syndrome Type
+1,Dry Eyes
+2,Acupuncture points
+3,Non-Sjögren's syndrome
+4,Management methods
+5,Prevention strategies
+6,The scope of "white astringency syndrome" in traditional Chinese medicine
+7,NLRP3 complex
+8,MUC1
+9,High levels of ICAM-1
+10,Higher levels of IL-8
+11,Higher levels of IL-6
+12,High IFN-γ content
+13,High levels of TNF-α
+14,LFA-1 interaction
+15,IL-8
+16,NOD-like receptor protein 3 (NLRP3) activation
+17,Sphingomyelin
+18,Matrix metalloproteinases (MMP-9)
+19,Langerhans cells (LC)
+20,IL-17 increases
+21,MMP-9 increases
+22,Increased oxidative stress
+23,Increased interleukin and tumor necrosis factor
+24,IFN-γ increases
+25,IL-1 increases
+26,TNF-α increases
+27,IL-6 increased
+28,IL-1β increases
+29,IL-8 increased
+30,IL-10 increased
+31,Increased matrix metalloproteinase-9 (MMP-9)
+32,Increased tear dissolving factors
+33,Increased tear osmolarity
+34,Human leukocyte antigen DR increased
+35,Veillonella
+36,Increased inflammation-related molecules
+37,Elevated tumor necrosis factor-α (TNF-α)
+38,Elevated matrix metalloproteinase-9 (MMP-9)
+39,Mucin production and goblet cell function perpetuate the vicious cycle of DED
+40,TFOS DEWS II
+41,Water-deficient and evaporative DED
+42,Gastrointestinal disorders
+43,Bacillus
+44,Oxidative stress
+45,Tear cytokine levels in DED patients
+46,Tear cytokines
+47,In vivo biocompatibility
+48,Gold Nanorods (GNR) Palladium (Pd)
+49,MGD severity levels
+50,Visible light
+51,Air pollution (nitrogen dioxide)
+52,Fluorescein tear break-up time (FBUT)
+53,Lacrimal gland ultrasound
+54,Adaptive immune response
+55,Support Vector Machine (SVM)
+56,Schirmer Rating
+57,Artificial intelligence-based diagnostic methods
+58,Th-17 cells and IL-17 secretion
+59,Th-17 cells and IL-22 secretion
+60,Th-17 cells and their secreted IL-6
+61,"Cells (Th1, Th17)"
+62,Tear film breakup morphology
+63,"Elderly people, postmenopausal women, contact lens wearers"
+64,Advanced age
+65,female
+66,Age ≥ 60 years
+67,Sjögren's syndrome
+68,Use of medications 3 months before surgery
+69,"Particulate matter (PM2.5, PM10)"
+70,CCL1、miR-21-5p
+71,"Corneal staining score, conjunctival staining score"
+72,IL-20 levels
+73,Meibomian gland expression (MGE)
+74,age
+75,Goblet cells (GC)
+76,Anti-glaucoma surgery
+77,YOLOv8
+78,Type 1 diabetes
+79,Meibomian Gland Dysfunction (MGD)
+80,Sleep disorders
+81,Adjusted hazard ratio (aHR)
+82,Cumulative probability
+83,Orbital lymphoma
+84,"Adverse events (eg, burning, stinging)"
+85,Retail Worker
+86,Subjective sleep quality
+87,Sleep latency
+88,Qi Ju Di Huang Tang
+89,"Women, topical medications"
+90,Sarcoidosis
+91,Systemic lupus erythematosus
+92,Rheumatoid arthritis
+93,Public awareness
+94,Fovea Diagnosis
+95,Rosmarinic acid
+96,Ligusticum glabra
+97,Chlorogenic acid
+98,Tear meniscus height (TMH)
+99,Substance P (SP)
+100,Flaky rupture
+101,Point rupture
+102,Linear rupture
+103,Irregular rupture
+104,Bad eating habits
+105,Hook effect
+106,"Lubricating eye drops, preservative-free eye drops"
+107,Meibomian gland dysfunction type dry eye Chinese medicine
+108,"Tear film antioxidants (such as lactoferrin, SOD)"
+109,Multiple sources of evidence
+110,Intercellular adhesion molecule 1 (ICAM-1)
+111,City dwellers
+112,Artificial tear replacement therapy
+113,Mindfulness training
+114,Artificial tears
+115,Corticosteroids
+116,Chinese medicine eye drops
+117,"Subjective symptoms (eg, dryness, fatigue)"
+118,Lack of sleep
+119,Sleeping too much
+120,Comparison of gout patients with non-gout patients
+121,Regular VDT users
+122,First visit for dry eye costs more than follow-up visits
+123,Hybrid DED costs more than evaporative or water-deficient DED
+124,Non-drug treatment
+125,Dry Eye Management
+126,Lutein/Zeaxanthin
+127,Curcumin
+128,Vitamin D3 (LCD)
+129,Impression cytology
+130,IFN-γ
+131,Mitogen-activated protein kinase (MAPK) and nuclear factor-kB (NF-κB)
+132,Nicotinic acetylcholine receptor (nAChR)
+133,Explainable Artificial Intelligence (XAI) Tools
+134,Gene chip technology
+135,Meta-techniques applied to
+136,Randomized controlled trials (RCTs)
+137,Logistic regression techniques are used to
+138,Chinese Medicine Acupuncture
+139,Rasch technique is used in
+140,YOLOv8 Deep Learning Model
+141,Deep Learning (DL) Methods
+142,Flashing dynamic
+143,Contact lenses
+144,"Machine learning models (e.g. SVM, VGG16, ResNet)"
+145,Nanomedicine
+146,YOLOv8 target diagnosis model
+147,"Diquafosol, indicating a more stable tear film with a thicker lipid layer"
+148,"XAI through feature normalization, image registration, and bias removal"
+149,ML models enhanced with XAI improve feature selection and reduce bias
+150,Miracle Inquiry
+151,AI
+152,Patient-Reported Outcomes (PROs)
+153,Tear Film Oriented Diagnosis (TFOD)
+154,Transcriptome sequencing technology
+155,Corneal epithelial cells
+156,Proteomics technology
+157,Acupuncture
+158,Proteomics
+159,Heat shock proteins
+160,Glutathione pathway
+161,peroxisome proliferator-activated receptor pathway
+162,Calcium Binding Protein
+163,S100A8/S100A9
+164,Animal Model of Dry Eye without Sjögren Syndrome
+165,Stem Cells
+166,Ultrasound elastography
+167,Artificial Intelligence (AI)
+168,Machine Learning (ML)
+169,Deep Learning (DL)
+170,Transcriptomics
+171,XAI Heatmap
+172,Artificial Intelligence (AI)
+173,Theory of Fire
+174,Feature normalization correlation registration
+175,NOD mice
+176,Bibliometrics
+177,VOSviewer
+178,CiteSpace
+179,Convolutional Neural Network (CNN)
+180,Quality of life diagnostic scale
+181,Dry Eyes No. 1
+182,Tear replacement therapy
+183,ELISA and multiplex techniques
+184,ImageJ software
+185,Ultra-high resolution OCT
+186,Ultra-wide-angle fundus (UWF) images
+187,Low-dose preservative-free hydrocortisone
+188,Multiplex diagnostic techniques
+189,Core i5-10500H CPU
+190,Punctal plugs
+191,Nano-liquid chromatography (nanoLC)
+192,Dendrimer
+193,Topical cyclosporine
+194,Fluorescein decomposition pattern
+195,Diagnosis Code (ICD-9)
+196,"Diagnostic tools (MBI, J-OSDI, TFBUT)"
+197,Manual marking by ophthalmologist
+198,Corneal Photometer 5M
+199,Tear secretion test
+200,Intraclass Correlation Coefficient (ICC)
+201,Ocular Surface Disease Index (OSDI)
+202,"Advanced algorithms (e.g. GAN, GNN)"
+203,16S rRNA gene amplicon sequencing
+204,National Health Insurance Research Database (NHIRD)
+205,U.S. Department of Defense (DOD) Military Health System
+206,In vivo confocal microscopy (IVCM)
+207,"Anti-inflammatory therapy (eg, corticosteroids, cyclosporine)"
+208,Lissamine green and rose bengal staining
+209,Controlled Harsh Environment (CAE) Chamber
+210,Microscope examination images
+211,Fluorescein and Rose Bengal staining
+212,Conventional ELISA
+213,Non-targeted lipidomics technology is used in
+214,Blink Video
+215,Supervised Learning Algorithms
+216,Explainable Artificial Intelligence (XAI)
+217,"Diquafosol tetrasodium, Rebamipide"
+218,Optical Coherence Tomography (OCT)
+219,"Nanoemulsions, nanosuspensions, liposomes, micelles"
+220,Epithelial irregular factor (EIF)
+221,Image quality and feature extraction for AMD diagnosis
+222,Yolo
+223,XAI tool transparency supports personalized treatment strategies
+224,Nanoparticle delivery systems in dry eye treatment
+225, YOLOv8
+226,The OSDI questionnaire and eye blink video technology combined with deep learning were applied to
+227,Fusion learning method combining multiple ophthalmic digital image sources
+228,Cataract surgery
+229,Low temperature and strong wind
+230,Epithelial dysfunction
+231,Amfenac (AF)
+232,Drug toxicity
+233,anxiety
+234,Patients who receive LipiFlow treatment generally have mild or no obvious symptoms.
+235,SH/CS-PF Use
+236,Use of PEG/PG-PF
+237,Aqueous-deficient dry eye model
+238,Evaporative dry eye model
+239,Medication Therapy Management Model (MTM)
+240,Omega-3 fatty acids
+241,PICASSO Board
+242,Personalized medicine
+243,Lightweight U-Net architecture
+244,Cytokine group
+245,Asian Dry Eye Society (ADES)
+246,Asian Dry Eye Association
+247,Salivary gland biopsy
+248,MMP-9 inhibition
+249,Antioxidants
+250,Ion introduction of Chinese medicine
+251,Hypoosmotic pressure artificial tears
+252,Lubricant eye drops
+253,MTM Services
+254,Tear breakup time (BUT)
+255,Schirmer I test
+256,Unsaturated fatty acids (Omega-3)
+257,OSDI (Dry Eye Symptom Index)
+258,"Rosmarinic acid, chlorogenic acid"
+259,Danzhi Xiaoyao Powder
+260,TCM Syndrome Score
+261,OSDI score
+262,FL score
+263,IL-1β
+264,IL-6
+265,hs-CRP
+266,Meibomian gland secretion trait score decreased
+267,Decreased meibum discharge score
+268,Electroacupuncture
+269,acupuncture
+270,Acupuncture and medicine combined treatment
+271,Eye Clearing Soup
+272,Bidens pilosa extract
+273,Heat and pulsation therapy
+274,Hyperglycemic state
+275,Comparison of Sodium Hyaluronate and Polyethylene Glycol Groups with Dextran-70 Group
+276,Comparison of Sodium Hyaluronate Group with Polyethylene Glycol and Dextran-70 Group
+277,Patients treated with sodium hyaluronate were compared with the relevant control group
+278,A collection of technologies
+279,Cyclosporine A
+280,Tear break-up time (TBUT)
+281,Omega 3 and Omega 6 polyunsaturated fatty acids
+282,Artificial tears combined with traditional Chinese medicine atomization eye fumigation treatment
+283,Traditional Chinese medicine ophthalmic care combined with modern new technologies and methods
+284,Intense pulsed light (IPL) combined with low-intensity light therapy (LLLT)
+285,Intense Pulsed Light (IPL) Treatment Combined with Meibomian Gland Expression (MGX)
+286,"The fusion learning method combines data from optical coherence tomography (OCT), fundus autofluorescence (FAF), conventional color fundus photography (CFP), and ultra-wide-angle fundus (UWF) images"
+287,Body acupuncture points combined with eye acupuncture points
+288,Maximum blink interval (MBI) combined with Japan ocular surface disease index (J-OSDI)
+289,Generative Adversarial Networks (GANs)
+290,Multi-source data combined with XAI
+291,AI dry eye technology applied to the system
+292,Houttuynia cordata eye drops
+293,Calcitonin gene-related peptide (CGRP)
+294,SP/NK1R antagonists
+295,"Long-chain Omega-3 PUFA (EPA, DHA)"
+296,After age-related cataract surgery
+297,Corneal surgery
+298,Sjögren's syndrome or non-Sjögren's syndrome
+299,Lifitero
+300,Anti-inflammatory treatment
+301,Chinese medicine fumigation
+302,Corneal nerve fiber damage
+303,Tear functional unit disorder
+304,Corneal nerve abnormalities
+305,Acupuncture points for regulating body functions in traditional Chinese medicine
+306,"Diagnostic Transformer (DETR), Transformer architecture, provides enhanced global context understanding"
+307,The method of nourishing water and concentrating wood combined with western medicine
+308,Chufeng Yisun Decoction combined with tobramycin dexamethasone eye drops
+309,Acupuncture combined with pranoprofen eye drops
+310,Proteomics combined with microbiome
+311,Danzhi Xiaoyao Powder combined with meibomian gland massage
+312,Ultrasonic atomization of houttuynia eye drops combined with meibomian gland massage
+313,COVID-19 pandemic
+314,Seasonal changes
+315,Screen Time (ST) Timing (Before Bedtime)
+316,Red eyes
+317,Smartphone use
+318,Blepharitis
+319,IPL/LLLT combination therapy
+320,Cyclosporine A
+321,Tear Film Guided Therapy (TFOT)
+322,Ribapat
+323,Dry eye patients
+324,inflammation
+325,Cationic emulsion (CE) artificial tears
+326,Dry eye animal model
+327,Autoimmune disease models
+328,"MUC16, MUC1, and MUC4 membrane-bound mucins"
+329,Reactive oxygen species (ROS)
+330,Smoking status
+331,Temperature-sensitive ink - changes color to warn users of overuse of their eyes
+332,Diagnostic Methods
+333,OTX-101 is a cyclosporine formulation
+334,Acupuncture therapy combined with traditional Chinese medicine such as Qiju Dihuang Decoction and Yangyin Runmu Decoction
+335,FDA and EMA
+336,After treatment of dry eye patients
+337,Machine Learning (ML) and Explainable Artificial Intelligence (XAI) Tools
+338,Aqueous Deficiency Dry Eye (ADDE)
+339,Sjögren's syndrome (SS)
+340,Chronic dry eyes
+341,Dry Eye
+342,Severe dry eyes
+343,The Ocular Surface Disease Index (OSDI) provides subjective data
+344,Nano-micelle formulation
+345,Cyclosporine A (CsA)
+346,Inflammatory response
+347,Autophagy
+348,Tear film
+349,Adverse Reactions
+350,Tear film lipid layer (TFLL)
+351,Glasses or contact lenses
+352,Schirmer Ⅰ test (S Ⅰ t)
+353,Goblet cell reduction
+354,Epworth Sleepiness Scale (ESS) People with high daytime sleepiness
+355,Mask-Associated Dry Eyes (MADE)
+356,ophthalmologist
+357,Trehalose
+358,Pseudomonas
+359,Mucin
+360,Changes of peak systolic velocity in lacrimal artery
+361,Age group (20-30 years old)
+362,Healthy and ADDE patients
+363,Use of metformin
+364,Conjunctival lymphoma
+365,Diabetic peripheral neuropathy
+366,Corneal neuropathy
+367,Diabetic retinopathy
+368,Diabetic patients
+369,Diabetic dry eyes
+370,Prostaglandin derivatives
+371,Carbonic anhydrase inhibitors
+372,Contact lens wear
+373,Lifestyle-related dry eye
+374,Video terminal usage time
+375,Less frequency of outdoor activities
+376,Wearing orthokeratology lenses
+377,Wearing contact lenses
+378,Tear Breakup Time (BUT) Low
+379,Tear secretion test (SIT) Low
+380,Type 3 Dry Eye (Mixed)
+381,Omega-6 polyunsaturated fatty acids (PUFA)
+382,PEG/PG-PF (Systane? Ultra PF)
+383,Restasis? (cyclosporine A)
+384,YOLOv5 target diagnosis model
+385,Intestinal flora imbalance
+386,Eicosapentaenoic acid (EPA)
+387,Actinobacteria
+388,Femtosecond laser-assisted cataract surgery (FLACS)
+389,Non-invasive tear film breakup test
+390,Non-invasive tear break-up time (NITBUT)
+391,Patient satisfaction
+392,Image classification based on ResNet
+393,Tear film break-up time (TFBUT)
+394,Tear Film Lipid Layer (TFLL) Diffusion Grade (SG)
+395,Tear secretion test I (ST1)
+396,Tear Deficient Dry Eye (ADDE)
+397,Mask
+398,Screen Time (ST) Duration
+399,"Gaseous pollutants (NO2, SO2, O3)"
+400,CXCL8
+401,CCL2
+402,CCL3
+403,Fully Convolutional Network (FCN)
+404,Upper eyelid closure maximum velocity (UCMV)
+405,Digital screen usage
+406,Diabetes mellitus (DM)
+407,ICAM-1
+408,Ocular surface epithelial lesions
+409,Ocular surface epithelial damage (CED and CjED)
+410,Ocular Demodex colonization
+411,"Eye surgery (e.g. cataracts, LASIK)"
+412,Depression and anxiety
+413,Fluorescein staining
+414,Prolonged screen time
+415,Lipid layer thickness (LLT)
+416,UV radiation
+417,"Autoimmune disorders (eg, Sjögren syndrome)"
+418,"Autoimmune disorders (eg, Sjögren syndrome, rheumatoid arthritis)"
+419,Computer Vision Syndrome (CVS)
+420,Data quality enhancement based on XAI
+421,Dry eyes
+422,HbA1c and fasting blood sugar levels
+423,IL-17A and IL-2
+424,Meibography score
+425,Schirmer test
+426,obesity
+427,Width of corneal basal nerve
+428,Corneal basal nerve bending
+429,Length of corneal basal nerve
+430,Tear meniscus radius (TMR)
+431,SH/CS-PF and PEG/PG-PF
+432,Low-dose hydrocortisone for chronic dry eye
+433,Sensitivity and specificity for diagnosing DED
+434,Comparison of YOLOv8 and YOLOv5
+435,PFHO Treatment
+436,Comparison of Restasis? in Cyporin N? group at 12 weeks
+437,IPL and MGX Treatment
+438,Comparison of sodium hyaluronate treatment group with control group
+439,Sodium hyaluronate and polyethylene glycol eye drops
+440,Patients with Demodex colonization were compared with patients without Demodex infection
+441,"Hydrocortisone treatment, showing improvement in symptoms"
+442,Ocular drug bioavailability in the treatment of dry eye
+443,Sodium hyaluronate eye drops
+444,Hydrocortisone treatment
+445,Artificial tears and osmoprotectants
+446,Hyaluronic acid
+447,Long-term effects of IPL/LLLT last beyond 12 months after treatment
+448,Treatment-emergent adverse events (TEAEs)
+449,Radiation therapy (RT)
+450,"Hydrocortisone treatment, suggesting improved tear film stability"
+451,Therapeutic interventions
+452,Treatment of artificial tears combined with traditional Chinese medicine atomization eye fumigation
+453,Glucan-70 Eye Drops
+454,Polyethylene glycol eye drops
+455,Global Dry Eye Study
+456,The annual incidence rate showed an upward trend from 2008 to 2012
+457,ADDE patients
+458,"Department of Ophthalmology, The First Affiliated Hospital of Harbin Medical University"
+459,Optic atrophy
+460,Ocular allergy (OA)
+461,Glycolysis/gluconeogenesis
+462,MMP-9
+463,Pro-inflammatory cytokines
+464,Lid margin variation
+465,Phototoxicity
+466,"Environmental factors (e.g. pollution, weather)"
+467,"Environmental factors (eg, UV radiation, pollution)"
+468,Matrix Metalloproteinases (MMPs)
+469,Air pollution
+470,"Systemic complications (such as hyperlipidemia, hypertension)"
+471,Video Display Terminal (VDT)
+472,"Cells (TH1, TH17)"
+473,BUT and SIT
+474,High osmotic pressure
+475,MMPs
+476,Topical medication application
+477,Inflammatory factors
+478,IL-17
+479,Corneal refractive surgery
+480,Medication for surgery
+481,Reactive oxygen species (ROS)
+482,Using a video terminal
+483,A small number of patients receive PFHO treatment
+484,Dry Eye Syndrome (DES)
+485,DED affects wound healing and angiogenesis
+486,MRPs (Medication Related Problems)
+487,Heat generated by the eye mask
+488,DED among digital screen users has economic and personal consequences
+489,Bacteroidetes level and Actinomyces positive
+490,The air exhaled from the mask flows upward
+491,ST lasts longer
+492,The technique was applied to and visualized important features of the ML model for MGD diagnosis
+493,Metabolomics technology is used in DES research
+494,Classifying and diagnosing eye redness conditions
+495,Correlation optimization of model selection in multi-model fusion methods
+496,Tear collection methods and techniques applied to technology
+497,Tear film instability
+498,Tear film instability and inflammation
+499,Tear film lipid layer
+500,The duration and length of study of primary school students are too long
+501,Macular degeneration
+502,Vitreoretinal surgery
+503,Tear gland hardness
+504,Postmenopausal women
+505,Hyperosmotic tear film
+506,Nerve sensory abnormalities
+507,Complement and the coagulation cascade
+508,gout
+509,Neuropeptides
+510,"Environmental stress, surgery, and autoimmune conditions"
+511,Tear Hyperosmolarity and DED
+512,Preservatives and surfactants (toxic effects)
+513,Climate differences between Nanjing and Yili
+514,Caused by internal and external factors
+515,Cataract surgery results
+516,"Presence of Demodex mites, which cause decreased tear production and worsening symptoms"
+517,Extended time spent on digital devices during the pandemic
+518,26.9% of participants wore masks
+519,Hyperosmotic ROS
+520,innate immune response
+521,Cataract surgery due to ocular surface damage and tear film instability
+522,0.05% cyclosporine A eye drops
+523,type 2 diabetes
+524,Patients with moderate to severe DPN
+525,DPN patients
+526,Type 2 diabetes patients
+527,diabetes
+528,cataract surgery incision
+529,Tear film secretion gland abnormalities
+530,Surgery takes too long
+531,perioperative medications
+532,anxiety and depression
+533,cataract surgery
+534,Meibomian gland dysfunction
+535,Children and teenagers of different ages wearing orthokeratology lenses
+536,Improper liver and lung meridians
+537,abnormal liver function
+538,Abnormal lung function
+539,Liver and lung qi imbalance
+540,Calbindin abnormality
+541,Mucin abnormalities
+542,high blood sugar
+543,systemic medication
+544,topical medication
+545,lacrimal gland resection
+546,dry environment stress
+547,blue light exposure
+548,high fat diet
+549,sleep deprivation model
+550,hormone deficiency model
+551,"Low humidity, high airflow"
+552,Mucin layer abnormalities
+553,Acellular matrix abnormalities
+554,environmental meteorological factors
+555,temperature
+556,low humidity
+557,air quality index
+558,wind force
+559,High temperature environment
+560,low temperature environment
+561,Meibomian gland dysfunction
+562,Age
+563,Meibomian gland duct obstruction
+564,Spleen and stomach damp-heat syndrome
+565,Liver depression and spleen deficiency syndrome
+566,Liver and Kidney Yin Deficiency
+567,Yin deficiency and dryness-heat syndrome
+568,Liver blood deficiency syndrome
+569,Meibomian gland dysfunction dry eye
+570,Benzalkonium chloride
+571,Beta-adrenergic receptor blockers
+572,α-adrenergic receptor agonists
+573,Corneal transplantation
+574,Loss of tear film homeostasis
+575,Corneal nerve damage
+576,Liver meridian stagnation and heat syndrome
+577,Demodex infestation
+578,Kidney Yang Deficiency Cold
+579,Fire Transgression
+580,Excessive use of electronic products
+581,Excimer laser surgery
+582,Environmental factors
+583,Tear gland removal
+584,Meibomian gland burning
+585,Androgen deficiency
+586,Laser-assisted in situ keratomileusis
+587,Dry eye inflammation
+588,Corneal and conjunctival diseases
+589,Tear gland dysfunction
+590,Sjögren's syndrome (SS)
+591,Sjögren's syndrome-related dry eye (SS-DED)
+592,Unhealthy lifestyle
+593,Long-term video terminal operation
+594,Less physical exercise
+595,Not getting enough sleep
+596,Video terminal use
+597,Perimenopause
+598,Insufficient Tiangui
+599,Decreased tear film stability
+600,Damage to conjunctival goblet cells
+601,Poor blood sugar control
+602,Insomnia
+603,Cataract phacoemulsification
+604,Eye surgery
+605,Strabismus surgery
+606,High Dose Omega-3
+607,Tear film breakup (TFBU)
+608,Lacrimal gland insufficiency
+609,Decreased tear production
+610,Corneal nerve injury
+611,Mitochondrial dysfunction
+612,Autoimmune diseases (such as Sjögren's syndrome)
+613,Fluctuating sex hormone levels
+614,IOP-lowering drugs
+615,Decreased levels of sex hormones
+616,Changes in sex hormone levels
+617,Phacoemulsification surgery time ≥ 20 minutes
+618,Non-infectious inflammation
+619,Contact lens wearing
+620,Liver and kidney yin deficiency
+621,Peripheral nerve abnormalities
+622,Insulin abnormalities
+623,Perimenopause
+624,Umbilical acupuncture treatment
+625,Eyelid surgery
+626,Estrogen and androgen levels
+627,Short tear breakup time (short TBUT)
+628,Hormone imbalance
+629,"Environmental factors (humidity, temperature)"
+630,Indoor Air Quality
+631,"Weather conditions (humidity, temperature, wind)"
+632,Povidone-iodine
+633,Blue light emission
+634,Tear hyperosmolarity
+635,Primary Sjögren's syndrome (SS)
+636,Long-term video terminal exposure
+637,Insufficient sleep
+638,Phacoemulsification surgery takes too long
+639,Vitamin D deficiency
+640,Iatrogenic factors
+641,NF-B
+642,TNF-α
+643,Diquafosol Sodium
+644,"Matrix metalloproteinase-9, matrix metalloproteinase-1"
+645,Topical cyclosporine A
+646,Bacteroidetes
+647,Prevotella
+648,ICAM-1
+649,Concomitant diabetes
+650,Phacoemulsification time ≥ 20 minutes
+651,Drug use within 3 months before surgery
+652,Visual display terminal usage ≥ 2 hours per day
+653,Single-day visual display terminal usage time ≥ 2 hours
+654,Hormone replacement therapy (HRT)
+655,Older
+656,Drug use
+657,Conjunctival goblet cells
+658,Ceramide
+659,Age and gender
+660,Dendritic cells
+661,NPY
+662,Tear hyperosmolarity
+663,Interleukin-1 (IL-1)
+664,Benzalkonium chloride (BAC)
+665,Hyperosmotic pressure (HO)
+666,Glycerides
+667,Nourishing the kidney and warming the yang
+668,Nourishes Yin and reduces fire
+669,Healthy temper
+670,Artificial tear supplements and lubricants
+671,Photothermal conversion hydrogel mini eye patch
+672,Qiju Dihuang Wan
+673,Wolfberry
+674,Benzalkonium chloride (BAK)
+675,NEI-VFQ-25
+676,NEI-RQL-42
+677,QOV Scale
+678,PSQI (Pittsburgh Sleep Quality Index)
+679,Japanese Ocular Surface Disease Index (J-OSDI)
+680,Corneal fluorescein staining
+681,Tear film breakup time
+682,Non-invasive tear breakup time (NIBUT)
+683,Corneal nerve morphology
+684,"""10-point goal progress card"""
+685,Thermal imaging of the ocular surface
+686,Questionnaire on the impact of dry eyes on daily life
+687,Depression-Anxiety-Stress Scale (DASS)
+688,Self-rating depression scale (SDS)
+689,Self-Rating Anxiety Scale (SAS)
+690,Visual Quality Questionnaire
+691,OSDI scale
+692,VF-QOL Scale
+693,GQL-15 scale
+694,SQOL-DVI scale
+695,0.05% Cyclosporine A Nanoemulsion
+696,LipiFlow Thermal Pulsation System
+697,Omega-3 polyunsaturated fatty acids (PUFA)
+698,Conjunctival impression cytology (CIC)
+699,Perfluorohexyloctane (PFHO) Ophthalmic Solution
+700,Systematic review
+701,SMTube
+702,C-OSDI Questionnaire
+703,"YOLOv5 and YOLOv8, focusing on speed and accuracy"
+704,"YOLOv5 and YOLOv8, focusing on speed and accuracy"
+705,Latest clinical trials on DES
+706,"Schirmer score, LLT, fluorescein tear break-up time (FTBUT)"
+707,Ultra-high-resolution optical coherence tomography (UHR-OCT)
+708,Fluorescein tear break-up time (FTBUT)
+709,Tear lipid layer thickness (LLT)
+710,Tear River Height (LTMH)
+711,Tear River Height (TMH)
+712,Tear River Test Paper (SMTube)
+713,Ocular Surface Disease Index (OSDI)
+714,Dry Eye Quality of Life Score (DEQS)
+715,Objective and subjective scoring systems
+716,Fluorescein decomposition time (FBUT)
+717,Chinese OSDI (C-OSDI)
+718,Tear film osmolarity
+719,Tear osmolarity
+720,Higher scores on the Pittsburgh Sleep Quality Index (PSQI)
+721,Tear osmolarity test
+722,MBI with J-OSDI
+723,Lateral Flow Immunoassay (LFIA)
+724,CCL1
+725,miR-21-5p
+726,Semiquantitative scoring of lacrimal gland echogenicity
+727,Young's modulus average value (Emean)
+728,Serum vitamin D level
+729,Serum interleukin-20 (IL-20)
+730,Inflammation and immune response
+731,"Tear film instability, tear hyperosmolarity, ocular surface inflammatory damage, and neurosensory abnormalities"
+732,Ocular surface immune response
+733,Irregularities in the corneal epithelial surface
+734,Proteus
+735,Actinomycetes
+736,Firmicutes
+737,Demodex
+738,Ocular surface damage Dry eye
+739,Macrophages
+740,Neutrophils
+741,NK cells
+742,"Acupuncture, Chinese herbal fumigation"
+743,Low concentration atropine eye drops
+744,Huanglian Wendan Decoction
+745,chrysanthemum
+746,"Vitex rotundifolia, Buddleja buddleja"
+747,"Lithospermum officinale, dandelion, etc."
+748,Bidens pilosa
+749,Chinese medicine treatment
+750,Heat
+751,Ophiopogon japonicus
+752,Serum albumin
+753,Serum transferrin
+754,Apolipoprotein AI
+755,Jiawei Xiaoyao Pills
+756,Paraben-free formula
+757,Fitzpatrick Skin Type IV
+758,AF/Au@Poly-CH NPs are protected from DED damage
+759,KPI-121 0.25% stabilizes the ocular surface and reduces inflammatory episodes
+760,"PFHO, reduces evaporation and stabilizes the tear film"
+761,"Chrysanthemum, mulberry leaves"
+762,Meibomian gland massage
+763,Iontophoresis
+764,Intense Pulsed Light (IPL)
+765,Psychological interventions
+766,Thunder Fire Moxibustion
+767,SFBT
+768,Combined diagnosis
+769,Pharmacist-led MTM services
+770,TCM Syndrome Differentiation and Treatment
+771,Wenshen Xiaoyao Decoction
+772,Acupoint massage combined with Chinese medicine package
+773,Nanosuspension
+774,BUT (Tear Breakup Time)
+775,SIT (tear secretion test)
+776,Tear secretion test (SIT)
+777,Chinese medicine Yiqi Congming Decoction
+778,Moxibustion
+779,Chinese medicine fumigation combined with acupuncture
+780,Chinese medicine fumigation combined with artificial tears
+781,Ganluyin combined with sodium hyaluronate
+782,Traditional Chinese Medicine Nursing Program
+783,Chinese medicine fumigation combined with Chinese medicine ion introduction
+784,Cyclodextrins and Nanoparticles
+785,Mucus Penetrating Particles (MPP)
+786,Personalized pharmacy management plan
+787,Prevention and management options for lifestyle-related dry eyes
+788,Implants
+789,Cetaxel chloride (CKC)
+790,Autologous serum (AS) eye drops
+791,Management and treatment
+792,Health Talks
+793,Chinese herbal eye fumigation
+794,Patient Education
+795,Combination formula
+796,Traditional Chinese Medicine Treatment
+797,Chinese medicine package for external application
+798,patient
+799,Sodium hyaluronate eye drops
+800,Cationic Emulsion (CE)
+801,Xiaoshengsan
+802,SKQ1 Antioxidant
+803,"Lysozyme C, lipocalin-1, lactotransferrin"
+804,Altered amino acid metabolism
+805,Sphingolipid changes
+806,"Neurotrophic factors (eg, NGF, serotonin)"
+807,C
+808,Hot water fumigation
+809,"Inflammatory cytokines (eg, IL-1β, TNF-α)"
+810,In situ gel
+811,Non-contact tear break-up time (NIBUT)
+812,Acupuncture + artificial tears
+813,Self-made eye-moistening soup
+814,KPI-121 0.25% Clinical Trial (STRIDE)
+815,Cholinergic drugs
+816,Glucocorticoids
+817,Traditional Chinese Medicine
+818,Alpha-lipoic acid (ALA)
+819,Vitamin D
+820,Cyclosporine A (CsA)
+821,α7nAChR
+822,Acupuncture
+823,Buddleja buddleja
+824,Qi-boosting and eye-nourishing soup
+825,Polydatin
+826,Cyclosporine A eye drops
+827,LFA-1 antagonists
+828,Reproxalap
+829,miRNA
+830,Dan Eye Drops
+831,Cyclooxygenase-2 (COX-2) enzyme
+832,Lipid tear supplements
+833,Treatment before cataract surgery
+834,Cyclosporine
+835,Cyclosporine (CsA)
+836,Chrysanthemum and lotus formula for eye smoke
+837,Chinese medicine aerosol therapy
+838,Simple acupuncture
+839,Various formulation strategies for artificial tears and medicated eye drops
+840,Loteprednol Etac
+841,"Topical immunomodulators (eg, cyclosporine, lifitegrast)"
+842,Sodium Hyaluronate
+843,High humidity
+844,Health Guidance
+845,Acupuncture + Chinese medicine + artificial tears
+846,Lymphocyte function-associated antigen 1 (LFA-1)
+847,Acupuncture treatment
+848,Increased polymer micelles
+849,Acupuncture + Chinese medicine
+850,Lactoferrin
+851,Varenicline Nasal Spray (OC-01)
+852,Diquafosol infusion therapy
+853,SFBT
+854,Corneal and conjunctival fluorescein staining
+855,Liposomes
+856,Distant and Near Acupoints
+857,Chinese medicine fumigation combined with meibomian gland massage
+858,Acupuncture
+859,Gua Sha around eyes
+860,Hyaluronic acid (HA)
+861,OC-01 Nasal Spray
+862,How to use hydrogel eye patch
+863,Cyporin N? Faster than Restasis?
+864,LipiFlow treatment through better meibomian gland expression
+865,Double-effect nano eye drops
+866,Diquafosol enhances LLT and reduces tear breakup time (NIBUT)
+867,Long-term use of PFHO
+868,Omega-3 fatty acids
+869,Hot compress and meibomian gland massage
+870,Preservative-free eye drops
+871,Solution Focused Brief Therapy (SFBT)
+872,Chrysanthemum and lotus
+873,Topical cyclosporine
+874,Topical anti-inflammatory drugs
+875,Chinese medicine fumigation
+876,Quality of life management
+877,Chinese medicine mist fumigation eye treatment
+878,Lifestyle Adjustments
+879,Intense Pulsed Light Therapy (IPL)
+880,Chinese medicine fumigation treatment
+881,Hormone replacement therapy
+882,Vitamin D replacement therapy
+883,Soothing Liver and Eyesight Soup
+884,Sun's Abdominal Acupuncture
+885,Abdominal acupuncture treatment
+886,Nanoemulsion
+887,Antioxidants from Natural Foods
+888,Yingxiang Touqian Nasal Clearing Method
+889,Acupuncture + moxibustion + Chinese medicine
+890,Chinese medicine fumigation combined with auricular acupuncture
+891,Fumigation with mulberry bark soup
+892,Mint soup fumigation
+893,Traditional Chinese Medicine Nursing Technology
+894,Acupressure
+895,Chinese Medicine Treatment
+896,Yangyin Yiqi Decoction
+897,Omega-3 Supplements
+898,SH/CS-PF Eye Drops
+899,Multi-model fusion
+900,Omega-3 intake
+901,Acupuncture points around eyes
+902,Diabetes mellitus (DM)
+903,Diabetic corneal neuropathy
+904,Anti-inflammatory drugs
+905,Essential fatty acids (Omega-3)
+906,NF-κB signaling pathway
+907,Nonsteroidal anti-inflammatory drugs (NSAIDs)
+908,Diatom Nanozyme (DAN)
+909,Osmoprotectants
+910,"Inflammatory factors (such as IL-1, TNF-α)"
+911,Eye Acupuncture
+912,"GAP43, GFAP"
+913,IL-6 and MMP-9
+914,MUC5AC
+915,MUC5AC (mucin)
+916,Omega-3 fatty acids (FA)
+917,Goblet cells
+918,Firmicutes/Bacteroidetes ratio
+919,Hormone therapy
+920,"Lactoferrin, lysozyme, lipocalin"
+921,Quality of life (QoL)
+922,Bifidobacterium
+923,Mucin 5AC (MUC5AC)
+924,Autologous serum drops
+925,Reduction of hydrocortisone therapy
+926,Reduce IPL/LLLT combination therapy
+927,Phospholipids
+928,PFHO
+929,Poly(catechin)-capped gold nanoparticles (Au@Poly-CH NPs)
+930,LipiFlow related hot compress
+931,Nano drug formulation
+932,Mistletoe
+933,NLRP3 inflammasome
+934,IL-1
+935,Transient receptor potential vanilloid 1 (TRPV1)
+936,Ocular surface inflammation-related neurosensory abnormalities
+937,Corneal nerve
+938,Thunder Fire Moxibustion on Eyes
+939,Vitamin A
+940,Autologous serum
+941,Neurotrophic Factors
+942,Short-term topical antibiotic use
+943,Diquafosol eye drops
+944,Diquafosol
+945,Mesenchymal stem cell (MSC) therapy
+946,Licorice
+947,Chinese herbal eye fumigation
+948,Acupuncture
+949,Vasoactive intestinal peptide (VIP)
+950,The method of nourishing water and nourishing trees
+951,Bo's Abdominal Acupuncture
+952,MIP-2
+953,Qinpi Eye Drops
+954,circRNA
+955,Syndrome differentiation and treatment
+956,Xia Sangju
+957,TLR signaling pathway
+958,Different frequency facial scraping care techniques
+959,traditional Chinese medicine
+960,Anxiety-depression related dry eyes
+961,Bupleurum
+962,Treating the liver and lungs together
+963,"Peony bark, Gardenia, Scrophularia"
+964,Restore liver ascending and lung descending
+965,Xuanfu
+966,Erdong Xiaoke Recipe
+967,Asparagus cochinchinensis
+968,"Radix Trichosanthis, Dendrobium"
+969,Coptis chinensis
+970,Prunella vulgaris
+971,Bone marrow-derived mesenchymal stem cells
+972,Endogenous progenitor cell transplantation
+973,Meibomian gland stem cells
+974,Acupoints around eyes
+975,Acupuncture for lacrimal gland
+976,Acupuncture at Fengchi acupoint
+977,honeysuckle
+978,Saffron
+979,safflower
+980,Wild Chrysanthemum
+981,Acupuncture
+982,4-Pinoleol Eye Mite Removal Cotton Pads
+983,Fire-starting Soup
+984,Three Talents Sealing Marrow Pill
+985,Astragalus and Ginseng Soup
+986,Cyclosporine
+987,Xiaoyaosan
+988,Jiawei Xiaoyaosan
+989,New abdominal needle
+990,"Antioxidants (such as trehalose, alpha-lipoic acid, etc.)"
+991,Liver and kidney yin deficiency
+992,Qi and Yin deficiency type
+993,"Eye acupuncture points, abdominal acupuncture points"
+994,lncRNA MIAT
+995,DED recurrent episodes
+996,OC-01 (Varenicline Solution)
+997,Nanomicelle Cyclosporine
+998,IPL using MGX
+999,Sodium Hyaluronate/Chondroitin Sulfate (SH/CS-PF)
+1000,Topical cyclosporine A (CsA)
+1001,"Inflammatory markers (such as IL-6, TNF-α)"
+1002,Increased tears
+1003,Eye pain
+1004,Eye fatigue
+1005,Liver meridian stagnation and heat
+1006,Lung Yin deficiency
+1007,Qi and Yin deficiency
+1008,Jingming acupoint
+1009,Zanzhu Acupoint
+1010,Temple Points
+1011,Sizhukong acupoint
+1012,Congenital anhedonia
+1013,Stevens-Johnson syndrome
+1014,Other diseases
+1015,"Eyelid hygiene, anti-inflammatory medications, and lipid-containing lubricants for MGD and DED"
+1016,Blinking exercises may reduce DED symptoms
+1017,Screen breaks may reduce DED symptoms
+1018,Environmental changes can reduce DED symptoms
+1019,Anti-inflammatory drug therapy
+1020,Physical therapy
+1021,Age-related dry eyes
+1022,Pathogenesis of dry eye in patients with DM
+1023,Dry Eye Diagnosis
+1024,Increased expression of CCL1 and miR-21-5p in conjunctival epithelial cells and tears
+1025,Comparison of MGD-related EDE patients with a control group
+1026,Reduced T cell migration and inflammation in DED
+1027,"Lymphocytes, neutrophils"
+1028,Melting temperature of oil secreted by meibomian glands
+1029,Corneal epithelial permeability
+1030,Patients with DED but not associated symptoms
+1031,Corneal nerve damage
+1032,Patients with ocular allergy (OA)
+1033,Comparison of DED patients with relevant control groups
+1034,Tears of patients with DED indicate inflammation
+1035,Comparison of tears between DED patients and relevant controls
+1036,Tears of DED patients vary
+1037,Tears of DED patients
+1038,Tears and ocular surface in patients with DES
+1039,"DED, indicating inflammation and disease severity"
+1040,Sjögren's syndrome and DES patients compared with relevant control groups
+1041,DED patients whose condition worsens due to VDT use
+1042,"DED associated with Sjögren's syndrome, causing ocular surface damage"
+1043,"Chronic DED, causing further damage"
+1044,Comparison of tears between DES patients and controls
+1045,DED onset and worsening of related symptoms
+1046,Key biomarkers of dry eye severity and tissue remodeling
+1047,Ocular surface inflammation
+1048,"Multifactorial diseases causing tear film instability, discomfort, and visual impairment"
+1049,Multifactorial ocular surface diseases characterized by loss of tear film homeostasis
+1050,"Subtypes within the same scope, not distinct entities"
+1051,Common side effects in omega-3/omega-6 studies
+1052,Bacterial biomarkers in ADDE patients
+1053,Key factors in the pathogenesis and progression of DED
+1054,"There are differences, affected by different collection and technology application methods"
+1055,Indications of inflammatory responses in DED
+1056,Application of AF/Au@Poly-CH NPs in animal models
+1057,DED
+1058,Eye patch photothermal conversion core material
+1059,"According to the meibomian gland segmentation and application, it is divided into four different levels (0, 1, 2, 3)"
+1060,Heat converted to GNR@Pd in eye mask
+1061,Increased prevalence of DED
+1062,Tear film stability
+1063,Dry eye degree
+1064,"Amplified inflammation in chronic DED leads to more severe, longer-lasting attacks"
+1065,Interferometer lipid layer image classification
+1066,Secretion of pro-inflammatory cytokines causes ocular surface inflammation and epithelial damage
+1067,"Flake rupture, point rupture, linear rupture, irregular rupture"
+1068,ST before bed
+1069,Quality of life (QoL) and work productivity
+1070,Tear film stability and ocular surface health
+1071,"SIT value, BUT value"
+1072,Superficial Punctate Keratitis (SPK)
+1073,"FTBUT, MGE, and Schirmer scores for certain dry eye types"
+1074,"Secretes MUC5AC, a gel-forming mucin that is essential for tear film stability"
+1075,"Ocular surface environment, causing chronic inflammation"
+1076,"YOLOv8, high-performance indicators such as object positioning accuracy mean average accuracy (mAP) in blink diagnosis"
+1077,Comparison of dry eye associated with type 1 diabetes
+1078,Comparison of patients with Sjögren's syndrome with the general population
+1079,Comparison of DED in gout patients and control groups
+1080,Gout patients may develop DED over time
+1081,Patients receiving CsA had a higher risk of developing leukopenia compared with patients receiving vehicle or artificial tears alone.
+1082,Clinical applications to more effectively process
+1083,Dry eye patients
+1084,"Nourishes Yin, nourishes the liver and improves eyesight"
+1085,"DED and MGD, causing overlapping symptoms and signs"
+1086,Correct use of masks and measures to prevent MADE
+1087,Screening and diagnosis of macular diseases such as age-related macular degeneration (AMD) and diabetic macular edema (DME)
+1088,"Dry eye disease related targets (TNF-α, Caspase1, IL-6, IL-1β)"
+1089,Neurogenic inflammation
+1090,"Tear deficiency, meibomian gland dysfunction"
+1091,Abnormalities of the tear film lipid layer
+1092,Uneven distribution of the aqueous tear layer
+1093,"Meibomian gland dysfunction, thin tear film lipid layer"
+1094,"Dry eyes, impaired ocular surface function"
+1095,Impaired ocular surface function
+1096,"The LFIA test uses high concentrations of lactoferrin, which requires dilution to obtain accurate results"
+1097,"""White Astringency"" or ""Dryness and Blurred Light"" in Traditional Chinese Medicine"
+1098,DED patients have reduced defenses against oxidative stress
+1099,Improving the accuracy of AI-based DED diagnosis
+1100,LFA-1 promotes immune responses and inflammation in DED
+1101,DED treatment in rural residents
+1102,Symptoms of eye discomfort
+1103,Negative emotions
+1104,"Perimenopausal dry eye symptoms, inhibit ocular surface inflammation"
+1105,Evaporative or water-deficient DED
+1106,"Multicenter technology is used to display DED, accounting for the largest proportion of costs"
+1107,Restoration of ocular surface homeostasis
+1108,Tear secretion and restoration of ocular surface homeostasis
+1109,Muc1
+1110,Muc4
+1111,Muc5
+1112,Ocular surface cell specimens
+1113,"Macrophages, dendritic cells"
+1114,"Varenicline, which causes tear secretion"
+1115,Transparency and explainability of MGD grading to enhance clinical trust
+1116,Expression profile of miRNA in tears of patients with dry eye
+1117,Randomized controlled trials (RCTs) for DED
+1118,Meta-analysis of the effectiveness of sodium hyaluronate in the treatment of dry eye after cataract surgery
+1119,"Key factors to determine impact: DED severity, number of visits, and area of residence"
+1120,"Diabetic retinopathy, glaucoma"
+1121,Validation of the psychometric properties of the C-OSDI
+1122,Diagnosing abnormal blink patterns in ophthalmology videos
+1123,Automating and improving the accuracy of foveal diagnosis
+1124,Long-term use of digital screens can cause decreased blinking frequency and incomplete blinking
+1125,Prolong the retention time of drugs in the eye and improve bioavailability
+1126,Classification and segmentation tasks in AMD diagnosis
+1127,Improvement of tear interference pattern
+1128,Data quality improvement
+1129,Intelligent identification of Meibomian gland dysfunction (MGD)
+1130,Help build future thinking space
+1131,"Diagnosis of dry eyes, severity classification, and prognosis"
+1132,Diagnosis of DED Treatment Impact on Daily Life
+1133,Intelligent image recognition of dry eye video.
+1134,Causes of tear film instability
+1135,Differentially expressed genes associated with dry eye
+1136,Reduced oxidative damage after autophagy agonist rapamycin
+1137,Dry eye research and acupuncture treatment of dry eye
+1138,"Diagnosis, differential diagnosis and classification of dry eye"
+1139,Immune and regulatory related protein expression
+1140,Basic research on acupuncture treatment of dry eyes
+1141,Dry Eye Research
+1142,Activation of MAPK pathway
+1143,Inhibits oxidative stress
+1144,Blocking PPAR signaling
+1145,Upregulates expression in dry tear tears
+1146,Activate the immune system
+1147,Differentiating between aqueous-deficient and lipid-dysfunctional dry eyes
+1148,Simulating the pathogenesis of dry eye
+1149,Tear film-guided dry eye treatment
+1150,Diagnosis of lacrimal gland lesions
+1151,Clinical diagnosis of dry eye
+1152,Tear breakup time (TBUT) imaging technology is used in
+1153,Tear film interferometry and slit lamp imaging techniques are used in
+1154,Facilitate identification of artifacts and refine MGD classification
+1155,Treatment of age-related dry eyes
+1156,XAI improves image quality for more accurate MGD diagnosis
+1157,Provides a more detailed mite count than just a diagnosis
+1158,Autoimmune Dry Eye Research
+1159,Technology applied to dry eye-related quality of life research hotspots
+1160,"Visualization technology applied to authors, journals, countries, institutions, etc."
+1161,"Technology is applied to the number of posts, keyword emergence, etc."
+1162,"Tear meniscus height estimation, corneal thickness measurement"
+1163,Quantifying quality of life in patients with dry eye
+1164,"Nourishes the liver and kidneys, improves eyesight and improves dry eye symptoms"
+1165,Dry eye symptom relief
+1166,Tear cytokine levels in DED patients and controls
+1167,Quantitative technology for LFIA test line results is applied to
+1168,Creating a corneal epithelial contour map
+1169,200° panoramic retinal image capture to improve diagnostic accuracy
+1170,Treating chronic dry eyes by reducing inflammation
+1171,Measuring tear cytokine levels in DED studies
+1172,Testing YOLOv5 and YOLOv8 performance
+1173,Proteomics of tear samples is applied to
+1174,Targeted drug delivery in the treatment of dry eye disease
+1175,Reduce postoperative dry eye inflammation
+1176,Diagnosis of dry eye subtypes
+1177,Identification of DED cases in the study population
+1178,The efficiency and accuracy of deep learning model technology in diagnosing fovea
+1179,Ocular surface video using research technology for TMH measurement
+1180,Tear Secretion in Dry Eye Research
+1181,Test-retest reliability between the online and paper versions of C-OSDI
+1182,Symptom improvement in DED patients after LipiFlow treatment
+1183,Severity of DED and its impact on quality of life
+1184,Complex data from DED diagnostic tests
+1185,Microbial composition under study
+1186,Patient data on the prevalence and risk factors of DED in patients with gout
+1187,Prevalence and incidence of DED from 2003 to 2015
+1188,Corneal basal nerves and Langerhans cells (LC) in dry eye
+1189,Dry eye inflammation and flare-ups
+1190,Corneal and conjunctival epithelial damage in dry eye
+1191,Ocular surface inflammation in patients with dry eye
+1192,Tear secretion in patients with DED
+1193,EDS and other symptoms in a standardized setting
+1194,Application of YOLOv5 and YOLOv8 in diagnosis and quantification of Demodex mites
+1195,Corneal and conjunctival damage in patients with DED
+1196,LFIA results of IL-6 and lactoferrin
+1197,Key lipid changes and potential biomarkers involved in the pathophysiology of DED
+1198,"Obtain objective data through application of technology to blink frequency, duration and irregularity"
+1199,A pre-processed multi-source ophthalmic image model for AMD diagnosis
+1200,Data Quality in Machine Learning (ML) Models for Diagnosis of Meibomian Gland Dysfunction (MGD)
+1201,Dry eye in the diabetic group and the control group
+1202,Secretagogues increase tear production
+1203,A solid approach to verifying deep learning model performance
+1204,Dry Eye Drug Delivery Systems
+1205,DED diagnostic tools
+1206,"Interpretability, reliability, and applicability of artificial intelligence in DED diagnosis"
+1207,Data preprocessing. Data quality enhancement
+1208,Trichiasis Diagnosis
+1209,Tear film breakup diagnosis
+1210,Tear film lipid layer diagnosis
+1211,clinical
+1212,Demodex diagnosis
+1213,Improved bioavailability
+1214,Grading of eye redness
+1215,Dry Eye Diagnosis
+1216,Age-Related Macular Degeneration (AMD) Diagnosis
+1217,Dry Eye Symptoms
+1218,Tear film instability and environmental factors
+1219,Anti-inflammatory effect of Au@Poly-CH NPs
+1220,Ocular surface damage
+1221,Monitoring scope adverse events
+1222,Adverse events (AEs) during monitoring
+1223,"Lacrimal gland removal, lacrimal gland dysfunction"
+1224,Environmental stress
+1225,Reduces inflammation and supports neuroprotection in DED
+1226,A dynamic and personalized approach to treating DED
+1227,Personalizing DED treatment strategies using tear biomarker profiles
+1228,Improved performance on foveal diagnosis tasks compared to related traditional methods
+1229,Inflammatory response in patients with DED
+1230,New dry eye classification system
+1231,New definition emphasizes tear film stability
+1232,Confirming the diagnosis of Sjögren's syndrome
+1233,Treatment Goals of DES
+1234,Potential therapeutic approach to combat oxidative stress in DED
+1235,Disease recurrence rate
+1236,Reduced drug costs and number of MRPs
+1237,Reduced dry eye symptoms after cataract surgery
+1238,Reduced inflammation in dry eyes
+1239,Reduce diabetic peripheral neuropathy (DPN)
+1240,Hyperosmotic-induced decrease in TNF-α protein level in human corneal epithelial cells
+1241,Dry eye patients have reduced levels of inflammatory factors
+1242,Dry eye symptoms of patients in the observation group were reduced
+1243,Reduced severity of dry eye syndrome
+1244,Reduced corneal damage
+1245,Dry eye patients have reduced levels of inflammatory factors
+1246,Decreased density of activated immune cells in cornea
+1247,Decreased OSDI score and corneal fluorescein sodium staining (FLS) score
+1248,OSDI score and CVS symptom score decreased
+1249,"Decreased expression of IL-1β, TNF-α, and MMP-9 in lacrimal gland cells"
+1250,Decreased levels of IL-1β and TNF-α in tears of rats with dry eyes
+1251,Decreased tear osmotic pressure
+1252,LipiFlow system technology applied to eyelids
+1253,Corneal nerve dysfunction
+1254,Corneal staining score is low
+1255,Lower incidence of dry eye after surgery
+1256,Fluorescein staining (FL) score is low
+1257,Eye irritation symptoms are less common
+1258,Significant heterogeneity in cytokine levels across studies
+1259,"Inflammation, improve dry eye symptoms"
+1260,"Different studies have diagnosed CsA, with some showing improvement in tear secretion and others showing no significant difference. Results vary."
+1261,Studies comparing vehicle alone or artificial tears with CsA therapy have had mixed results
+1262,Improve dry eye symptoms and tear stability
+1263,Loss of contextual conditions around pixels in gland segmentation
+1264,XAI standardizes and optimizes ML model performance across different datasets
+1265,Use with caution in patients with DED who have significant inflammation
+1266,A user-friendly system to aid in mite diagnosis and related diagnostics
+1267,A user-friendly DED diagnostic system accessible online
+1268,"Promote tear film stability, improve ocular surface inflammation, anti-inflammatory and antibacterial effects"
+1269,"Anti-inflammatory and antibacterial effects, depending on the situation"
+1270,Tear film lipid layer diagnosis for dry eye disease
+1271,Accurate and efficient eye redness grading
+1272," Applications in ophthalmology, especially in diagnosing tear film abnormalities"
+1273,TMH diagnostics to aid in the diagnosis and management of dry eye
+1274,AI-based DED diagnostic approach enables better diagnosis and personalized treatment
+1275,Provides detailed quantitative technology for clinical applications in dermatology and ophthalmology
+1276,Treat dry eyes and inhibit inflammatory response
+1277,Tear secretion and TBUT in patients with DED
+1278,Corneal nerve damage and decreased tear film stability
+1279,Aqueous Deficiency Dry Eye (ADDE)
+1280,Treatment of DED after cataract surgery
+1281,Controlling inflammation in dry eyes
+1282,"Dilate capillaries, improve blood circulation in eyes"
+1283,The tear secretion of sodium hyaluronate and polyethylene glycol group was higher than that of dextran-70 group
+1284,Inadequate tear production and excessive evaporation
+1285,Medical object recognition
+1286,Dry eye after age-related cataract surgery
+1287,Cataract Dry Eye
+1288,Dry eye after cataract surgery
+1289,New dry eye challenges emerge due to lifestyle changes
+1290,MADE reports increase due to widespread mask use
+1291,Fluctuations in the incidence and severity of DED
+1292,"Dry eye disease increases risk, reduces academic performance"
+1293,Conjunctivitis
+1294,The prevalence of DED is high in adults and school-age children
+1295,"Conjunctivitis, ptosis"
+1296,Dry eyes caused by Meibomian gland dysfunction (MGD)
+1297,Alleviating inflammation in DED by blocking ICAM-1/LFA-1 interaction
+1298,Mucin deficiency
+1299,Anxiety and depression
+1300,Decreased quality of life
+1301,Part of a vicious cycle that exacerbates DED
+1302,Healthy tear film
+1303,Pathogenesis of dry eye
+1304,Autoimmune dry eye
+1305,Contributes to epithelial barrier function and tear film stability
+1306,Polycatechin technology for anti-oxidative stress treatment
+1307,The prevalence of DED is lower in non-smokers and ex-smokers
+1308,Dry eye protection
+1309,Comprehensive and consistent diagnostic criteria for DED
+1310,Approved for commercial use of nanomedicine in the treatment of DED
+1311,Reduced Ocular Surface Disease Index (OSDI) score
+1312,Cutting off the corneal nerve affects the stability of the tear film
+1313,Reliability of the online version for Chinese patients with dry eye
+1314,Changes in tear film homeostasis and inflammation
+1315,Loss of ocular surface homeostasis
+1316,Changes in corneal basal nerve parameters
+1317,Chronic inflammation affecting the ocular surface
+1318,Chronic inflammation and intermittent flare-ups
+1319,"Tear film instability, hyperosmolarity, and inflammation"
+1320,Tear film instability and hyperosmolarity
+1321,Tear film instability and chronic inflammation
+1322,Inflammation and oxidative stress
+1323,"Reduced tear film stability, hyperosmolarity, and chronic inflammation"
+1324,"Tear film instability, hyperosmolarity, inflammation, and neurosensory abnormalities"
+1325,"Cyclic episodes, inflammation, and tear film instability"
+1326,Chronic inflammation and corneal barrier disruption
+1327,Exocrine lymphocyte infiltration
+1328,"Tear film instability, hyperosmolality, and chronic inflammation"
+1329,Adequate watery and lipid tear secretion
+1330,EIF is higher compared to related mild DED
+1331,Diagnosing the severity of DED symptoms
+1332,Administration of cyclosporine A
+1333,Nanoemulsions and micelles treat DED
+1334,The vicious cycle of dry eye
+1335,Activity related to cellular homeostasis
+1336,Nanoparticle-based therapy prevents evaporation
+1337,Core mechanisms causing dry eye syndrome
+1338,Stabilizing polar and nonpolar lipids in CE
+1339,There was no significant difference in the incidence of MADE symptoms compared with those who did not wear corrective lenses
+1340,Chronic inflammation in DED causes reduced tear secretion
+1341,18.3% of respondents wear masks
+1342,Rise in dry eye cases linked to mask wearing and screen time
+1343,Protective agents against DED cell damage
+1344,Bacterial biomarkers of healthy ocular surface
+1345,Key ingredient in maintaining tear film stability and ocular surface health
+1346,Risk factors for higher prevalence of DED
+1347,"High risk factors for dry eye syndrome, with higher prevalence in women"
+1348,Risk factors for a higher prevalence of MADE
+1349,Changes in the degree of lacrimal gland lesions in patients with dry eyes
+1350,"The prevalence of symptomatic DED was unexpectedly high, especially in males"
+1351,"Staphylococci, Streptococci, Bacilli"
+1352,Dry eyes in patients with diabetes
+1353,Meibomian gland-associated orbital lymphoma
+1354,Reduced tear film stability
+1355,Corneal epithelial diseases
+1356,Diabetic Keratopathy
+1357,Corneal edema
+1358,"Dry eyes, ocular surface discomfort"
+1359,"Anxiety, depression, and decreased quality of life"
+1360,Dry eye syndrome in children
+1361,Risks of dry eyes in children
+1362,"Maximum symptom severity (SPEED, OSDI scores)"
+1363,The role of omega-3 PUFA in the treatment of DED
+1364,Clinical efficacy of SH/CS-PF
+1365,New cyclosporin A nanoemulsion (Cyporin N?)
+1366,Performance of YOLOv8 in trichiasis diagnosis
+1367,Performance of YOLOv8 in the diagnosis of tear film lipid layer
+1368,Performance of YOLOv8 in tear film breakup diagnosis
+1369,YOLOv8 performance in diagnosing Demodex mites
+1370,Diagnostic Transformer (DETR) technology is used to calculate the tear meniscus height (TMH)
+1371,Severity of Dry Eye Syndrome (DES)
+1372,Reduce dry eye symptoms
+1373,Tear secretion and tear break-up time (TBUT)
+1374,DED symptoms are more severe than those related to PCS
+1375,Decomposition of fluorescein
+1376,DED symptom severity according to C-OSDI diagnosis
+1377,Poor sleep quality
+1378,Elevated tear cytokine levels
+1379,"Elevated tear cytokine levels (IL-1β, IL-6, IL-8, TNF-α, IFN-γ)"
+1380,Bringing heavy economic burden to Chinese patients and society
+1381,Chronic inflammation and lipid changes of the ocular surface
+1382,"Alterations in mucin expression and secretion, causing tear film instability and inflammation"
+1383,"Tear film instability, inflammation, and eye discomfort"
+1384,Significant changes in tear proteome and metabolome
+1385,Study on cytokines in non-Sjogren's syndrome dry eye
+1386,Severe intestinal flora imbalance
+1387,DED symptoms improve after treatment
+1388,Performance of YOLOv8-based object diagnosis in eye redness grading
+1389,evaporative dry eye syndrome
+1390,Evaporative dry eye (EDE) and tear film instability
+1391,Application of MBI in diagnosing DED
+1392,Severity of corneal and conjunctival epithelial damage (CED and CjED)
+1393,Conjunctival epithelial injury (CjED)
+1394,Changes in ocular surface microbiota
+1395,"Dry eye symptoms worsen, especially in women and retail workers"
+1396,DED has a high prevalence and incidence
+1397,Increased risk of DED
+1398,"Primary school students are obese, have less physical activity, and have poor academic performance"
+1399,Dry eye symptoms and increased risk of diagnosis
+1400,Recruitment of immune cells to the ocular surface in dry eye
+1401,"U-Net performance in terms of efficiency, accuracy and resource consumption for foveal diagnosis"
+1402,Severity of DED symptoms
+1403,Blink-related friction-induced conjunctival epithelial damage (CjED)
+1404,Dry Eye Syndrome (DES) Prevalence Increases
+1405,Cellular activation and ocular surface inflammation
+1406,Neuroreflexia and total neurological grade score
+1407,Severity of dry eyes and meibomian gland damage
+1408,Unstable tear film in dry eye
+1409,Abnormal tear and blink patterns
+1410,Newly diagnosed DED patients have lower Schirmer test scores and higher OSDI scores
+1411,Higher prevalence of DED after surgery
+1412,Increased severity of DED in women
+1413,EIF is higher in patients with DED
+1414,Increased incidence of dry eye symptoms during COVID-19 pandemic
+1415,Artificial Tears (AT)
+1416,Tear breakup time (TBUT) and Schirmer score
+1417,Worsening of DED symptoms
+1418,Women at increased risk of dry eye syndrome
+1419,"Machine learning (ML) model accuracy, recall, and F1 scores have all improved"
+1420,"It is a first-level suitable disease for myopia, optic atrophy and glaucoma."
+1421,Dry eye incidence in diabetic patients
+1422,Comparison of other cytokines associated with DED
+1423,ICAM-1 and IL-6 levels
+1424,"ST lasts longer, and ST before going to bed"
+1425,"OSDI score, eye pain, blurred vision"
+1426,Sensitivity to light in people with DED
+1427,Interferon-gamma levels
+1428,"Severity of CED and CjED, reflecting tear volume"
+1429,IL-8 and IL-6 levels
+1430,Schirmer test shows improvement
+1431,Clinical trials show efficacy and safety Show efficacy and safety
+1432,MBI with J-OSDI shows high
+1433,"Significant improvements in mAP, specificity, recall, and F1 scores"
+1434,Corneal Fluorescein Staining (CFS) Significant DED Improvement
+1435,Significant DED improvement in tear film break-up time (TBUT)
+1436,Ocular Surface Disease Index (OSDI) score was significantly high
+1437,Ocular Surface Disease Index (OSDI) was significantly less
+1438,Significantly low Schirmer test scores
+1439,Rapid precorneal clearing
+1440,"Good, less adverse reactions"
+1441,Shows superior effectiveness compared to other eye drops in relieving dry eye symptoms after cataract surgery
+1442,Safe technology applied to dry eye disease without affecting intraocular pressure (IOP)
+1443,Adverse events were not significant
+1444,Inhibition of high osmotic pressure-induced MMP-9 expression
+1445,Improve tear film stability and ocular surface hydration
+1446,"Most are mild and related to the use of OC-01 Nasal Spray (such as sneezing, throat irritation)"
+1447,No significant effects on LLT or tear film stability in DE patients with MGD
+1448,Schirmer test changes little
+1449,Reduced tear film break-up time (TBUT)
+1450,Reduced severity of eye discomfort
+1451,Increased tear film thickness (TFT)
+1452,MEBO score increases
+1453,"mucin function and reduce inflammation in DED, e.g. using cyclosporine or novel mucin mimetic agents"
+1454,Dry eye disease treatment is more effective
+1455,Inferior to sodium hyaluronate-related polyethylene glycol combination in the treatment of postoperative dry eye
+1456,"Comparable to sodium hyaluronate, but slightly less effective in some tear stability measurements"
+1457,Increased tear break-up time (BUT)
+1458,"Distributed in the United States, China, Japan and other countries"
+1459,Comparison of ADDE patients with relevant controls shows less diversity and abnormalities in the ocular surface microbiota
+1460,Pathogenesis and related factors of dry eye
+1461,"Retinopathy, optic nerve disease"
+1462,Pathogenic pathways of DED
+1463,Pathogenesis of DES
+1464,Corneal epithelial barrier disruption and inflammation in DES
+1465,Understanding DED Pathophysiology
+1466,Pathogenesis of DED
+1467,The Vicious Cycle of DED
+1468,Postoperative dry eye
+1469,Excessive oxidative stress on the ocular surface
+1470,Corneal epithelial damage and inflammation in DED episodes
+1471,Evaporative dry eye in women
+1472,"Disruption of the tear film lipid layer, resulting in increased tear evaporation and hyperosmotic pressure"
+1473,Development and exacerbation of dry eye
+1474,"Exhaled air blows directly into the eyes, causing dry eye symptoms to worsen"
+1475,Gout patients at increased risk of DED
+1476,Eye Discomfort and DED
+1477,Chronic inflammation and damage in DED
+1478,Dry eye diagnosis-related efficacy
+1479,Disruption of ocular surface immune homeostasis
+1480,Damage to the ocular epithelial barrier
+1481,Destroy corneal epithelial basement membrane and tight junction proteins
+1482,Destabilize tear film
+1483,Damage to tear gland secretion function
+1484,Disruption of corneal epithelial barrier
+1485,"Damage to corneal nerves, causing decreased tear secretion"
+1486,"Destroys ocular surface cells, causing dry eye syndrome"
+1487,"Destroy cellular proteins, lipids, and DNA"
+1488,"During this period, the blink rate is reduced and the tear film becomes unstable."
+1489,Moderate or mild adverse events (AEs)
+1490,Lacrimal Functional Unit (LFU) Dysregulation
+1491,"Dysregulation of growth factors (such as VEGF, EGF)"
+1492,Identifying and resolving medication issues in patients with dry eye syndrome
+1493,tear secretion
+1494,work efficiency
+1495,tear film stability
+1496,physical activity
+1497,MDA
+1498,SOD
+1499,GSH-Px
+1500,Grad-CAM and SHAP
+1501,Ultra performance liquid chromatography (UPLC)
+1502,deep learning model
+1503,voting mechanism
+1504,Cytokine variability
+1505,Functional visual acuity (FVA)
+1506,corneal epithelium
+1507,"Lipids, aqueous/secreted mucins, membrane-associated mucins"
+1508,secretory component imbalance
+1509,"MGD, causing tear film instability and DED"
+1510,"Obesity, physical activity, dry eye and learning ability"
+1511,"Level 4 suitable symptoms: fundus hemorrhage, visual fatigue"
+1512,"Damage to ocular surface tissue, causing tear film stability to decrease"
+1513,Increased severity of dry eye
+1514,The prevalence and severity of DED are higher
+1515,Ocular surface inflammation and damage
+1516,NLRP3 inflammasome activation
+1517,inflammation
+1518,"Eye surface cells, causing dry eye"
+1519,Incidence of dyslipidemia dry eye
+1520,Worsening of MGD (Meibomian Gland Dysfunction)
+1521,digital eye strain
+1522,Eye discomfort
+1523,The vicious cycle of DED
+1524,Causes acute attacks of DED by activating epithelial cells and inflammatory mediators
+1525,"Adverse reactions (such as eye burning, irritation, etc.)"
+1526,Decreased tear secretion
+1527,Decreased corneal sensitivity
+1528,BUT shortened
+1529,Meibomian gland function score is low
+1530,"Dry eye disease-related indicators (such as OSDI score, tear secretion, etc.) are reduced"
+1531,ocular surface inflammatory disease
+1532,Postoperative dry eye
+1533,Increased risk of dry eye
+1534,Ocular surface diseases and meibomian gland abnormalities
+1535,"Disharmony of blood Qi, transit of blood Qi"
+1536,"Qi, blood and body fluids, regulating Qi movement"
+1537,"Essence and blood, regulating Qi"
+1538,Dry and hazy eyes
+1539,"vision, emotion"
+1540,Abnormal tear film stability
+1541,Abnormal protein levels in tears
+1542,inflammatory cascade
+1543,abnormal tear secretion
+1544,Tear-deficient dry eye
+1545,Poor tear film stability
+1546,Dry eye-like ocular surface damage in mice
+1547,Ocular surface and lacrimal gland changes
+1548,Postmenopausal and androgen deficiency dry eye
+1549,Rapid tear evaporation
+1550,Abnormal tissue repair
+1551,High risk of lipid abnormalities in dry eye
+1552,The incidence of lipid abnormality dry eye is high
+1553,The incidence of lipid abnormality dry eye is high
+1554,Tear evaporation rate
+1555,Changes in the ocular surface environment and faster tear evaporation
+1556,Decreased tear film lipid layer thickness
+1557,Evaporative dry eye
+1558,Meibomian gland atrophy
+1559,Tear film lipid layer instability
+1560,Meibomian glands secrete vigorously and the gland opening is blocked
+1561,Decreased secretion of meibomian glands
+1562,Meibomian gland atrophy and decreased secretion
+1563,Meibomian gland occlusion and decreased secretion
+1564,Meibomian glands are not able to secrete enough or excrete poorly
+1565,"Tear film abnormalities, eye irritation, ocular surface diseases"
+1566,Ocular surface diseases
+1567,Corneal epithelial damage
+1568,Allergic conjunctivitis
+1569,Ocular surface inflammatory cascade
+1570,Reduced tear secretion and decreased nerve sensitivity
+1571,"Eye discomfort symptoms, insufficient tear secretion"
+1572,"Meibomian gland dysfunction, tear film instability"
+1573,Decreased sensitivity of corneal nerves
+1574,Tear film instability and excessive tear evaporation
+1575,"Video terminal syndrome, dry eye syndrome"
+1576,ocular surface inflammatory response
+1577,Impaired corneal epithelial barrier function
+1578,Male-related dry eye model
+1579,Ocular surface microenvironment imbalance and inflammatory response
+1580,corneal epithelial cell apoptosis
+1581,"Corneal epithelial cell apoptosis, ocular surface damage"
+1582,Eye surface pain
+1583,Various degrees of dry eye
+1584,"Increased tear film osmotic pressure, ocular surface inflammation"
+1585,depression
+1586,pain
+1587,dry eye syndrome in children
+1588,"Changes in total tear volume, evaporation volume and osmotic pressure"
+1589,"Perimenopausal kidney qi deficiency, liver and kidney yin deficiency"
+1590,Corneal nerve structural and functional abnormalities
+1591,dry eye symptoms
+1592,Decreased mucin secretion and reduced tear film stability
+1593,"Tear film instability, corneal nerve dysfunction"
+1594,The occurrence of dry eye syndrome
+1595,Decreased activity of human corneal epithelial cells
+1596,"Ocular surface inflammation, tear film instability"
+1597,"Eye surface irritation, causing tear film instability"
+1598,Dry eye syndrome and ocular surface structural damage
+1599,Ocular surface inflammation and tear film instability
+1600,DED treatment results significantly improved
+1601,Apoptosis and oxidative damage in dry eye disease
+1602,"When using the screen for a long time, the blink frequency decreases"
+1603,Increased epithelial damage and inflammation
+1604,Abnormalities and reduced diversity of the ocular surface microbiota in ADDE
+1605,Wearing masks for a long time during the COVID-19 pandemic
+1606,Increased ROS production causes DED
+1607,"Eyelid inflammation, meibomian gland opening obstruction"
+1608,Dry eye disease
+1609,Ocular surface dysfunction
+1610,"Changes in ocular surface tissue, decreased tear production"
+1611,Ocular surface of glaucoma patients
+1612,Decreased effectiveness of corneal refractive surgery and cataract surgery
+1613,Dry eye disease
+1614,Worsening dry eye symptoms
+1615,Meibomian gland function
+1616,Severity of dry eye symptoms
+1617,Tear secretion and tear film stability
+1618,Tear film breakup pattern
+1619,The occurrence and development of SS-DED
+1620,Tear film breakup time and corneal fluorescein staining in children
+1621,The patient's quality of life and psychological state decline
+1622,"Loss of blood and essence to nourish the eye system, leading to dry eyes"
+1623,Lacrimal gland periductal fibrosis and alveolar atrophy
+1624,Lacrimal gland function and tear secretion
+1625,Pathogenesis of dry eye
+1626,Emotional and mental state
+1627,"Meibomian gland function, changes in tear film distribution"
+1628,Patients' quality of life and vision
+1629,Tear evaporation rate and tear dynamics
+1630,Ocular surface and tear film stability
+1631,Visual function and quality of life
+1632,Tear film stability and dry eye syndrome
+1633,Tear break-up time (TBUT)
+1634,Dry eye symptoms more intense than outdoor air quality
+1635,Severity of dry eye symptoms
+1636,Increased Demodex colonization
+1637,Ocular surface inflammation and damage
+1638,Increased tear evaporation
+1639,Evaporative dry eye (EDE)
+1640,Oxidative damage to corneal epithelial cells
+1641,Excessive ROS generation and inflammation
+1642,Higher medical costs than those associated with mild or moderate DED
+1643,Risks of Dry Eyes
+1644,Prevalence of dry eyes in children
+1645,Risk of dry eye after cataract surgery in the elderly
+1646,Risks of dry eyes after cataract surgery
+1647,Risk of dry eyes
+1648,The occurrence and development of dry eye
+1649,Risks of dry eye disease
+1650,Aqueous and/or mucinous components
+1651,Ocular Allergy (OA) and DED
+1652,Comparison of Sjögren's syndrome patients with a control group and DES patients
+1653,Comparison of DES patients with Sjögren's syndrome
+1654,"DED tears, causing inflammation and epithelial damage"
+1655,MGD-related EDE
+1656,Oxidative stress exacerbates DED symptoms
+1657,"Anti-glaucoma drugs, antihistamines, etc."
+1658,Addition of CsA therapy may enhance mucin production in DES patients
+1659,BAK and HO exposure both induce inflammatory responses
+1660,Prevalence of dry eye in diabetic patients
+1661,Th17 cell differentiation
+1662,Th1 and Th17 cell production
+1663,Proinflammatory factors and chemokines production
+1664,Pro-inflammatory and anti-inflammatory molecules production
+1665,Corneal epithelial cell apoptosis and inflammation
+1666,Cytokine and chemokine production
+1667,Dry eye occurs
+1668,Dry eye in animal models
+1669,Lipid droplet formation and triglyceride accumulation in corneal epithelial cells
+1670,High osmotic pressure induces lipid droplet formation
+1671,Kidney Yang Deficiency and Coldness Caused by Excessive Fire
+1672,Kidney Yin deficiency causes the abnormal movement of the yang fire
+1673,Fumigation of fire due to spleen-earth deficiency
+1674,Artificial tear supplements Tear film instability and lubricants
+1675,Relieve dry eyes caused by prolonged screen time
+1676,Nourishes the liver and kidneys
+1677,"Nourishes the liver and kidneys, and treats dry eye-related symptoms"
+1678,Decreased phospholipids and increased lysophospholipids in corneal epithelial cells
+1679,Visual function-related quality of life
+1680,Quality of life in patients with refractive error
+1681,Visual quality in patients undergoing cataract surgery
+1682,Sleep quality in patients with dry eye syndrome
+1683,Subjective symptoms of DED
+1684,Severity of symptoms in patients with DED
+1685,Severity of dry eye symptoms in patients with diabetes
+1686,Tear secretion
+1687,Through the Corneal Nerve Segmentation Network (CNS-Net)
+1688,The patient's desired state in relation to his or her current state
+1689,"Ocular surface temperature (OST), tear film stability"
+1690,Impact of DED on quality of life and daily activities
+1691,Mental health status of patients with DED
+1692,Depression levels in patients with dry eye
+1693,Anxiety levels in patients with dry eye
+1694,Patient's visual quality
+1695,Visual quality in cataract patients
+1696,Visual function in patients with glaucoma
+1697,Quality of life of patients with visual impairment
+1698,Efficacy and safety of treatment for primary Sjögren's syndrome dry eye (SSDE)
+1699,Effectiveness in treating Meibomian Gland Dysfunction (MGD) and dry eyes
+1700,Effectiveness of Dry Eye Treatment
+1701,Goblet cell density and Nelson grade
+1702,Long-term safety and efficacy of treating dry eye disease
+1703,Multiple acupoint selection efficacy
+1704,Real-time object diagnosis
+1705,Cyclosporine and hyaluronic acid
+1706,Corneal epithelial thickness distribution
+1707,LLT and Schirmer score
+1708,Severity of dry eyes
+1709,Diagnosing dry eye symptoms and their impact on visual function
+1710,"Diagnosis of dry eyes, impact on daily life and eye symptoms"
+1711,Diagnose severity of DED in patients and monitor treatment response
+1712,"CED and CjED, indicating tear film instability"
+1713,Paper version of OSDI
+1714,Increased tear evaporation due to MGD
+1715,LipiFlow Treatment
+1716,"DED, indicating tear film instability"
+1717,Lateral Flow Immunoassay (LFIA) for Dual Biomarkers IL-6 and Lactoferrin
+1718,Lack of watery tears
+1719,Point-of-Care (POC) Diagnosis for DED
+1720,Expression level of miR-21-5p
+1721,CFS score
+1722,Severity of dry eyes
+1723,"TBUT, Schirmer I value"
+1724,Dry eye after phacoemulsification
+1725,Corneal epithelial fluorescein staining score (CFL score)
+1726,Innate and adaptive immune mechanisms
+1727,Loss of tear film homeostasis and ocular discomfort
+1728,Compared with healthy controls and
+1729,It occurs in both symptomatic and asymptomatic individuals but is more common in the elderly
+1730,Ocular surface immune response in patients with dry eye
+1731,Thinning and decreased density of corneal nerve fibers
+1732,"Tear film instability, hyperosmolarity, and ocular surface inflammation"
+1733,Dry eye after keratoplasty
+1734,Abnormal tear secretion and tear film breakup time
+1735,"Meibomian gland dysfunction type dry eyes, clearing dampness and heat from the spleen and stomach"
+1736,"Relieve dry eye symptoms, clear liver and improve eyesight"
+1737,"Eye diseases, clearing the liver and improving eyesight, dispersing wind-heat"
+1738,"Eye inflammation, clearing heat, cooling blood, detoxification"
+1739,"Treatment/intervention of dry eye, clearing away heat and detoxification, dispersing blood stasis and reducing swelling"
+1740,Qiju Dihuang Decoction and other Chinese medicines for clearing liver and improving eyesight
+1741,Soften the lipids in the gland ducts
+1742,"Dry eyes, moistening lungs and promoting fluid production"
+1743,Upregulation of α7nAChR protein expression
+1744,Inflammatory processes are upregulated in DED and OA
+1745,Tears of DES patients show upregulation of inflammation
+1746,Estradiol levels increase in postmenopausal women
+1747,Reducing ocular toxicity in patients with DED
+1748,IPL Treatment
+1749,Corneal surface
+1750,Dispel wind-heat in the liver meridian and improve eyesight
+1751,Unclogging the meibomian gland openings
+1752,Improved drug penetration
+1753,Improved tear film stability
+1754,Improved quality of life for patients
+1755,Improved quality of life for dry eye patients
+1756,Improved diagnostic performance for dry eye
+1757,Improved medication compliance and treatment efficacy
+1758,Improved treatment outcomes for age-related dry eye
+1759,Improvement of tear secretion function in perimenopausal patients with dry eye
+1760,Estradiol levels in serum of perimenopausal women increase
+1761,Improved treatment outcomes for patients with dry eye syndrome associated with visual fatigue
+1762,Improved bioavailability of ocular drugs
+1763,Increased tear secretion
+1764,Dry eye patients improve after treatment
+1765,Improved tear breakup time (BUT) and tear volume production (PRT)
+1766,"NIBUT f, NIBUT av improve"
+1767,Tear mantle height (TMH) increased
+1768,"Acupuncture efficacy, improves tear breakup time (BUT)"
+1769,Improved clinical outcomes for dry eye
+1770,"Lacrimal gland function, promote tear secretion"
+1771,Tear breakup time (BUT) is increased in patients with dry eye
+1772,The total effective rate of dry eye syndrome has been improved
+1773,Improve tear secretion and tear film stability
+1774,Improved therapeutic effect of dry eye syndrome of Yin deficiency and dampness-heat type
+1775,Improved efficacy of eye diseases such as dry eyes and diabetic retinopathy
+1776,Improved treatment outcomes for dry eye after cataract surgery
+1777,Ocular drug delivery and corneal retention
+1778,Improve the delivery of drugs such as loteprednol etabonate to the ocular surface tissue
+1779,Targeted therapy for posterior segment diseases
+1780,Oil droplets in CE are positively charged
+1781,Growth factors and vitamins to promote ocular surface health
+1782,Multi-stage algorithm based on DED severity
+1783,The patient's level of mindfulness
+1784,The patient's level of knowledge
+1785,Clinical efficacy in patients with dry eye
+1786,Treatment compliance and efficacy
+1787,Therapeutic efficacy against multiple DED pathologies
+1788,"Syndrome differentiation and treatment, acupuncture and moxibustion to inhibit ocular surface inflammation"
+1789,Eyes
+1790,52-week study shows sustained improvement in DED signs and symptoms
+1791,Stabilize tear film
+1792,Tear film lipid layer (TFLL) stabilization
+1793,The expression of TRL4 and NF-κB inhibits the release of inflammatory factors
+1794,"ROS levels, reducing oxidative stress"
+1795,"DES, indicating changes in tear film stability"
+1796,"DES, indicating the progression of related diseases"
+1797,Corneal epithelial cells under stressful conditions of dry eye
+1798,"DED, which affects nerve health and pain perception"
+1799,Long-term effects and disease-modifying potential in DES
+1800,Alternative treatments for dry eye patients
+1801,Suppressing mucin secretion and inducing goblet cell apoptosis in dry eye
+1802,Increase the drug's retention time in the eye and improve its bioavailability
+1803,Prolong tear film breakup time
+1804,Prolong tear breakup time (BUT)
+1805,"Nourishes blood and moisturizes eyes, Meibomian gland dysfunction type dry eyes"
+1806, May reduce signs and symptoms during DED attacks
+1807,Ocular surface health
+1808,Inhibit the expression of inflammatory factors
+1809,Inhibit T lymphocyte activation and ocular surface inflammation
+1810,Inhibit ocular surface inflammation and restore ocular surface immune homeostasis
+1811,Inhibit the expression of inflammatory factors and prevent dry eyes
+1812,Inhibit dry eye-related inflammatory response
+1813,Inhibition of Caspase1 and IL-1β gene expression in human corneal epithelial cells induced by hyperosmotic shock
+1814,Inhibits NF-κB signaling pathway and production of pro-inflammatory mediators
+1815,Inhibit T cell activation and reduce inflammatory response
+1816,Inhibits nuclear translocation of NF-κB
+1817,Suppressing inflammatory response in patients with dry eye
+1818,Inhibition of IL-6 and ICAM-1 expression in tears of patients with dry eye
+1819,"Inhibits the expression of IL-1β, MMP-9 and IL-8 in tears"
+1820,Inhibition of IL-1β expression in corneal and conjunctival tissues of dry eye mice
+1821,Inhibit NF-κB pathway and reduce oxidative stress
+1822,Inhibit ocular surface inflammatory response
+1823,Inhibits T cell-mediated cytokine secretion
+1824,Inhibits reactive aldehyde substances (RASP) and exerts anti-inflammatory effects
+1825,Inhibiting inflammatory responses in dry eye
+1826,Inhibit ROS/NLRP3/IL-1β signaling pathway
+1827,Inhibits cell activation and cytokine release
+1828,Inhibit Amfenac dual-function nano eye drops
+1829,Inhibited Cationic Emulsion (CE)
+1830,Inhibits inflammation and oxidative stress
+1831,Patients with evaporative dry eye and meibomian gland dysfunction
+1832,Cataract surgery in patients with pre-existing dry eyes
+1833,Relieve dry eye symptoms and keep the eye surface moist
+1834,Inhibits cell activation and reduces inflammation in DED
+1835,Cell activation and reduced inflammation in DED
+1836,The role of inflammatory mediators in the treatment of DED
+1837,Treatment methods of warm fumigation and sodium hyaluronate eye drops
+1838,Traditional hot steaming treatment
+1839,Effect of monotherapy in improving symptoms and signs
+1840,Artificial tears in improving dry eye symptoms
+1841,"KPI-121 0.25%, technology applied to reduce inflammation in DED"
+1842,Inflammation and improving quality of life in patients with DED
+1843,Conventional anti-inflammatory eye drops for the treatment of dry eyes after cataract surgery
+1844,Plays a key role in immune cell migration and activation in dry eye
+1845,"Tear secretion, lactoferrin content in tears"
+1846,"Tear protein secretion, relieve dry eye symptoms"
+1847,Goblet cell count
+1848,"Drug stability, reduce adverse reactions"
+1849,"Tear meniscus height (TMH), basal tear secretion (SIT)"
+1850,Tear secretion test (SIT)
+1851,Tear secretion in patients with dry eyes
+1852,Tear film production
+1853,Meniscus height
+1854,Enhanced lipid layer thickness (LLT) in DE patients with MGD
+1855,The patient's confidence-related self-esteem
+1856,Ocular drug penetration and residence time
+1857,Acupuncture can relieve dry eye symptoms
+1858,"Ocular surface function, tear film stability"
+1859,Improved glycosylated phosphoproteins in Ra
+1860,"Retinal diseases, retinitis pigmentosa, macular degeneration"
+1861,"Paralytic strabismus, ophthalmoplegia"
+1862,"Meridian Yang Qi, regulating Qi and blood"
+1863,Tear film stability and patient comfort in patients with dry eye
+1864,Improved Schirmer Test Score (STS)
+1865,Improved non-invasive tear breakup time (NITBUT)
+1866,Improved scoring of corneal and conjunctival staining
+1867,Improved tear breakup time (TBUT)
+1868,Improve tear film stability
+1869,Improvements to the Ocular Surface Disease Index (OSDI)
+1870,Improvement in overall dry eye score
+1871,Improved tear secretion
+1872,Improved tear secretion
+1873,Meibomian gland duct obstruction improvement
+1874,Improved tear film function
+1875,Improvement of ocular surface symptoms in glaucoma patients
+1876,Improvement of anxiety and depression in patients with dry eye
+1877,"Improvement in OSDI score, tear secretion, and tear film breakup time"
+1878,Improvement of ocular surface disease index (OSDI) and tear breakup time (BUT)
+1879,Improvement of ocular surface inflammation
+1880,Improvement in dry eye signs and symptoms
+1881,Improved ocular surface health
+1882,"Improved economic results, clinical outcomes, and patient satisfaction"
+1883,Improved quality of life for dry eye patients
+1884,"Ocular surface inflammation, improve quality of life"
+1885,Improvement in tear gland rupture time and tear secretion in patients with dry eye
+1886,Meibomian gland obstruction and tear film stability improvement
+1887,Improved prevention and management of dry eye in children
+1888,"Improve tear secretion, tear film function, and eye blood circulation"
+1889,"Meibomian gland lipid secretion, relieve dry eye symptoms"
+1890,Improvement of perimenopausal dry eye symptoms
+1891,Improve tear film stability and ocular blood circulation
+1892,Improvement of tear secretion function in perimenopausal dry eyes
+1893,Improvement of ocular surface inflammation and tear film stability
+1894,Improved dry eye symptoms
+1895,Improved sleep quality and emotional state
+1896,Improvement of visual dysfunction and dry eye symptoms
+1897,Symptom improvement in patients with dry eye syndrome associated with visual fatigue
+1898,Improvements in patients' tear breakup time and basal tear secretion test results
+1899,Solubility and ocular absorption of poorly soluble drugs
+1900,Improvement of ocular surface oxidative stress
+1901,Improvement of corneal epithelial damage
+1902,Improvement of ocular surface indicators related to dry eyes
+1903,Improvement of tear secretion in patients with aqueous-deficient dry eyes
+1904,Improvement of dry eyes and video terminal syndrome (CVS)
+1905,Improvement of mental and cognitive symptoms and physical symptoms
+1906,Improvement in tear breakup time (BUT) in patients with dry eye
+1907,Improved tear secretion and tear film stability in patients with dry eye
+1908,Improvement of tear secretion and ocular surface function in patients with dry eye
+1909,Improvement of diabetic cataract combined with dry eye symptoms
+1910,Improvement of dry eye symptoms in children
+1911,Improvement of dry eyes caused by meibomian gland dysfunction due to severe wind-heat syndrome
+1912,Improvement of symptoms such as dry eyes and myopia
+1913,"Improve local blood circulation in the eyes, relieve eye fatigue and improve"
+1914,Symptoms of dry eyes after age-related cataract surgery
+1915,Improvement of dry eye related indicators
+1916,Improvement of dry eye symptoms after age-related cataract surgery
+1917,Improvement of dry eyes after cataract surgery
+1918,"Goblet cell density, TBUT and OSDI scores improved"
+1919,Improves tear film stability by increasing aqueous and mucin components
+1920,Improved accuracy and robustness of AMD diagnosis compared to relevant single models
+1921,Improved conjunctival goblet cell density
+1922,Improvement in tear breakup time (TBUT) and tear secretion test scores
+1923,"Tear breakup time (BUT), tear secretion test (SIT), symptom score improvement"
+1924,Severity of dry eye symptoms
+1925,Relieve pain for patients
+1926,Reduce ocular surface inflammation
+1927,Reduce inflammation in dry eyes
+1928,Reduce the inflammatory response of the ocular surface in dry eyes
+1929,Reduce nonspecific inflammatory response in ocular tissue
+1930,Relieve DED symptoms by inhibiting COX enzymes
+1931,Reduces inflammation in dry eyes
+1932,Reduce Demodex mite population
+1933,Reduce epithelial cell apoptosis and inflammatory factors
+1934,Dry eye disease
+1935,Reducing insufficient tear production in patients with dry eyes
+1936,Reduced dry eye syndrome (DES) after 12 weeks
+1937,Alleviate various forms of DED causing tear film instability and epithelial damage
+1938,Relieve dry eyes and ocular allergies (OA)
+1939,Alleviate DED caused by mucin deficiency
+1940,Reduce corneal epithelial damage and goblet cell loss
+1941,Comparison of Sjögren's syndrome-related control groups
+1942,Reduces MMP-9 activity and improves dry eye symptoms
+1943,Reduce tear gland inflammation and increase IgA levels
+1944,Relieve long-term use of VDT users
+1945,Alleviate ADDE caused by lacrimal gland insufficiency
+1946,"Reduce inflammatory cytokines, such as TNF-α, IL-1β, MMP"
+1947,Reduce MMP-9 activity and promote corneal healing
+1948,"Reducing tears in dry eye patients, suggesting impaired ocular defenses"
+1949,Relieve pain in patients with DED and Sjögren's syndrome (SS)
+1950,Comparison of control group and DES patients with Sjögren's syndrome
+1951,Reduce tear hyperosmosis
+1952,Frequent users of VDTs due to goblet cell dysfunction
+1953,Reduce epithelial thickness distribution variation and EIF
+1954,Reduce conjunctival congestion and improve ocular surface health
+1955,Reduce tear film osmolarity
+1956,Reduce BAK exposure-induced ocular surface damage in DED
+1957,"Visual Analogue Scale (VAS) dryness score decreased, indicating symptom improvement"
+1958,Reduction in Ocular Surface Disease Index (OSDI)
+1959,Reduced ocular surface damage
+1960,Reduced dry eye score (EDS)
+1961,Sustained improvement in MGD and DED symptoms
+1962,Protect corneal epithelial cells and reduce apoptosis
+1963,"Inhibit inflammatory cytokines (such as IL-1β, TNF-α) and alleviate DED symptoms"
+1964,"In the treatment of dry eye, sodium hyaluronate showed greater benefit in improving TBUT in elderly patients compared to younger patients."
+1965,"Compared with the control group, the tear secretion test (SIt) showed a higher wetting length in the sodium hyaluronate group"
+1966,"Nourish the liver and kidneys, strengthen the tendons and bones, stabilize the tear film, and reduce ocular surface inflammation"
+1967,Dry eye inflammation
+1968,Inflammatory response to dry eye
+1969,Neuralgia response to dry eye
+1970,The course of dry eye
+1971,DED-Related Pain and Sensation
+1972,Tear film replenishment in the treatment of dry eye
+1973,Artificial tears have a viscosity and mucoid properties
+1974,Acupuncture points around the eyes and eye sockets
+1975,Conjunctival goblet cells produce mucus that stabilizes the tear film
+1976,"Lipid excretion, tear film lipid layer stability"
+1977,"Corneal epithelial repair, nerve regeneration"
+1978,"Neural regeneration, goblet cell hyperplasia"
+1979,Dry Eye Relief
+1980,Matrix metalloproteinase production
+1981,Inflammatory response-related cell aggregation
+1982,"Ocular surface inflammation, cell apoptosis"
+1983,Tear and mucin secretion
+1984,Conjunctival goblet cell loss and mucin deficiency
+1985,Secretion of IL-1β and IL-18
+1986,"Tear and mucin secretion, resulting in increased tear lipid layer thickness (LLT)"
+1987,Epithelial wound healing and mucin production
+1988,Corneal epithelial cell migration and repair
+1989,Tear gland regeneration in severe ADDE
+1990,"Regulate various medicines, various eye diseases"
+1991,"Blood circulation of eyelids and conjunctiva, tear film stability"
+1992,Immune responses in neurogenic inflammation
+1993,Emotions and Qi in perimenopausal patients with dry eyes
+1994,"Brain gut peptide secretion, improve dry eye symptoms"
+1995,Directed migration of immune cells
+1996,"Meridian function, promote tear secretion, inhibit ocular surface inflammation"
+1997,"Hormone levels, promote sex hormone secretion"
+1998,"Ocular surface protein expression, improve ocular surface function"
+1999,Expression of transcription factors related to PI3K/Akt/mTOR signaling pathway in lacrimal glands
+2000,Dry eye-related gene expression
+2001,Tear gland secretion
+2002,"Syndrome types such as liver and kidney yin deficiency, qi and yin deficiency, and lung yin deficiency"
+2003,Causes corneal inflammation by reducing MMP-9 levels
+2004,"Dry eye related indicators (such as tear secretion, tear film breakup time, corneal fluorescein staining, etc.)"
+2005,Moderate to severe dry eyes
+2006,"Soothing the liver and relieving depression, anxiety and depression"
+2007,Regulate Qi and relieve emotional depression
+2008,"Clears away heat and dampness, damp heat"
+2009,Harmonize the liver and lung
+2010,"Qi, blood, body fluids, liver and lung essence"
+2011,Improve overall efficiency
+2012,Increase tear secretion
+2013,Improvement in subjective symptom scores
+2014,Improve short-term symptoms of dry eyes
+2015,Dry eye treatment without side effects
+2016,Promote tear secretion
+2017,Improve tear film stability
+2018,Protein expression
+2019,Perimenopausal dry eyes
+2020,Diabetic dry eye due to yin deficiency and heat excess
+2021,"Improve SIT, BUT, FL, and eye symptoms"
+2022,Reduce serum IL-17 and IL-1β levels
+2023,"Lung Yin, clearing heat and moistening dryness"
+2024,"Stomach Yin, nourishing the stomach and promoting fluid production"
+2025,"Diabetic dry eyes, thirst quenching"
+2026,"Diabetes, clearing away heat and purging fire"
+2027,Nourishes the eyes and clears the fire in the liver meridian
+2028,"Ocular surface symptoms, clearing away heat and detoxification"
+2029,"Repair lacrimal glands, meibomian glands, and conjunctival goblet cells"
+2030,Aqueous Deficiency Dry Eye
+2031,Meibomian gland regeneration
+2032,Stimulates tear glands and treats dry eyes
+2033,Increase tear secretion
+2034,Improve ocular surface inflammation
+2035,Promote blood circulation in the eyes
+2036,Stimulate tear secretion and treat dry eyes
+2037,Improves blood circulation in the brain
+2038,Regulates eye nerve reflex pathways
+2039,"Anti-angiogenesis, VEGF"
+2040,"Anti-inflammatory, retinal inflammatory damage"
+2041,"Antioxidant, retinal ganglion cell damage"
+2042,"Anti-apoptosis, retinal ganglion cells"
+2043,"Eye health, better eyesight"
+2044,"VEGF, inhibits angiogenesis"
+2045,"Ocular immunity, immune regulation"
+2046,"Retinal ganglion cells, inhibit apoptosis"
+2047,"Improve blood circulation, retinal function"
+2048,"Dry eyes, myopia, optic nerve atrophy"
+2049,Liver meridian stagnation and heat syndrome dry eyes
+2050,Demodex-associated meibomian gland dysfunction dry eye
+2051,Dry eyes caused by kidney yang deficiency and coldness and floating fire
+2052,Dry eyes caused by kidney yin deficiency and excessive activity of yang fire
+2053,Dry eyes caused by spleen-earth deficiency and yang-fire fumigation
+2054,"Dry eyes associated with insomnia, anxiety, and depression"
+2055,"Taichong, Ganshu, Shenshu and other acupoints"
+2056,"Sanyinjiao, Taichong, Zusanli and other acupoints"
+2057,"Eye diseases such as dry eyes, myopia, and diabetic retinopathy"
+2058,Inflammatory response of corneal epithelial cells in patients with dry eye
+2059,Short-term treatment with KPI-121 0.25%
+2060,"Eyelid hygiene, warm compresses, and lipid replacement"
+2061,Inflammation in ADDE
+2062,Itchy eyes
+2063,photophobia
+2064,Eye discharge
+2065,Swelling of the eyelids
+2066,Nonsteroidal anti-inflammatory drugs (NSAIDs)
+2067,Corticosteroids (such as dexamethasone)
+2068,Antiviral drugs (such as acyclovir ointment)
+2069,Antifungal drugs
+2070,TNF drugs
+2071,Immunosuppressants
+2072,Vitamin E
+2073,Tear duct embolization surgery
+2074,Conjunctival resection
+2075,Corneal transplant
+2076,Light therapy
+2077,Anticholinergic drugs
+2078,Hormones
+2079,Eye exercises
+2080,Neurogenic dry eye
+2081,Air Quality and Humidity
+2082,Immune system disorders
+2083,Hormone levels
+2084,Imbalanced microbiota
+2085,Screen time and blinking frequency
+2086,Blurred vision
+2087,Dacryocystitis
+2088,Eyelid skin inflammation
+2089,Changes in tear composition
+2090,Infect
+2091,Increased intraocular pressure
+2092,Systemic inflammatory response
+2093,Trigeminal neuralgia
+2094,Chronic pain syndrome
+2095,Corneal damage
+2096,Restricted eye movements
+2097,Eye congestion
+2098,Intraocular hemorrhage
+2099,Headache
+2100,Migraine
+2101,Eye pain
+2102,Tension headaches
+2103,Attention deficit
+2104,Memory loss
+2105,Decreased vision
+2106,Eye dysfunction
+2107,General fatigue
+2108,Ciliary muscle fatigue
+2109,Extraocular muscle load
+2110,Visual adjustment function
+2111,Light conditions
+2112,Screen Usage
+2113,Focus
+2114,Presbyopia
+2115,Malnutrition
+2116,Correction of poor vision
+2117,Work environment adjustment
+2118,Increase humidity
+2119,Vitamin C
+2120,Dietary modification
+2121,Vision Correction
+2122,Eye exercises
+2123,Tear duct embolism
+2124,Good sleep

@@ -1,0 +1,1548 @@
+﻿START_ID,END_ID,relation
+0,1005,Include
+0,1006,Include
+0,1007,Include
+1,506,Include
+2,1008,Include
+2,1009,Include
+2,1010,Include
+2,1011,Include
+3,1012,Include
+3,1013,Include
+3,1014,Include
+4,1015,Include
+5,1016,Include
+5,1017,Include
+5,1018,Include
+1,114,Include
+1,1019,Include
+1,1020,Include
+6,1021,Include
+7,1022,Markers
+8,1023,Markers
+1,1024,Markers
+9,1025,Markers
+10,1025,Markers
+11,1025,Markers
+12,1025,Markers
+13,1025,Markers
+14,1026,Markers
+15,1027,Markers
+16,346,Markers
+17,1028,Markers
+18,1029,Markers
+19,1030,Markers
+20,1,Markers
+21,1,Markers
+22,1031,Markers
+23,1,Markers
+24,1,Markers
+24,1032,Markers
+25,1,Markers
+25,1032,Markers
+26,1032,Markers
+26,1,Markers
+27,1033,Markers
+28,1033,Markers
+29,1033,Markers
+26,1033,Markers
+24,1033,Markers
+27,1034,Markers
+29,1035,Markers
+27,1035,Markers
+28,1035,Markers
+30,1036,Markers
+24,1037,Markers
+31,1038,Markers
+32,1039,Markers
+33,1,Markers
+33,1,Markers
+34,1,Markers
+35,1040,Markers
+27,1041,Markers
+28,1041,Markers
+28,1042,Markers
+27,1042,Markers
+28,1043,Markers
+27,1043,Markers
+26,1043,Markers
+36,1044,Markers
+37,1037,Markers
+26,1045,Markers
+28,1045,Markers
+27,1045,Markers
+38,1046,Markers
+39,1047,disease
+40,1,definition
+1,1048,definition
+1,1049,definition
+41,1050,definition
+42,1051,definition
+43,1052,definition
+44,1053,definition
+45,1054,definition
+46,1055,definition
+47,1056,definition
+1,1057,definition
+1,421,definition
+48,1058,definition
+49,1059,definition
+50,1060,definition
+51,1061,Related
+52,1062,diagnosis
+53,1063,diagnosis
+54,1064,Related
+55,1065,Technology applied to
+56,1,diagnosis
+57,1,Technology applied to
+58,1,Markers
+59,1,Markers
+60,1,Markers
+61,1066,Markers
+62,1067,Features
+63,1,Risk factors
+64,1,Risk factors
+65,1,Risk factors
+66,1,Risk factors
+67,1,Risk factors
+68,1,Risk factors
+1,1068,Increased risk
+1,1069,Negative Impact
+69,1070,Negative Impact
+70,1071,Negative correlation
+71,728,Negative correlation
+72,254,Negative correlation
+73,1072,Negative correlation
+74,1073,Negative correlation
+75,1074,Markers
+76,1075,cause
+77,1076,Technology applied to
+78,1077,Research Hotspots
+79,1078,Research Hotspots
+80,1,Research Hotspots
+81,1079,Research Hotspots
+82,1080,Research Hotspots
+83,1,cause
+84,1081,disease
+85,1,Risk factors
+77,1082,Technology applied to
+86,1083,cause
+87,1,cause
+88,1084,Treatment/Intervention
+89,1085,Risk factors
+90,508,cause
+90,1,cause
+91,508,cause
+91,1,cause
+67,508,cause
+67,1,cause
+92,508,cause
+92,1,cause
+93,1086,Treatment/Intervention
+93,1086,Treatment/Intervention
+94,1087,Technology applied to
+95,1088,Treatment/Intervention
+96,1088,Treatment/Intervention
+97,1088,Treatment/Intervention
+98,1,diagnosis
+99,1089,Treatment/Intervention
+100,1090,Related
+101,1091,Related
+102,1092,Related
+103,1093,Related
+104,1094,Related
+104,1095,Related
+105,1096,Technology applied to
+106,1,Treatment/Intervention
+107,1097,definition
+108,1098,cause
+109,1099,Technology applied to
+110,1100,interactive
+111,1101,Spend more money
+112,1102,Treatment/Intervention
+113,1103,Treatment/Intervention
+114,1,Treatment/Intervention
+114,1,Treatment/Intervention
+115,587,Treatment/Intervention
+116,1104,Treatment/Intervention
+117,944,Treatment/Intervention
+118,1,cause
+119,1,cause
+120,1,Risk factors
+121,79,Risk factors
+122,1,Patients' feelings
+123,1105,Patients' feelings
+124,1106,Patients' feelings
+125,1107,Effect
+125,1108,Effect
+126,1109,Treatment/Intervention
+126,1110,Treatment/Intervention
+126,1111,Treatment/Intervention
+127,1109,Treatment/Intervention
+127,1110,Treatment/Intervention
+127,1111,Treatment/Intervention
+128,1109,Treatment/Intervention
+128,1110,Treatment/Intervention
+128,1111,Treatment/Intervention
+129,1112,Technology applied to
+130,1113,Markers
+131,1,Markers
+132,1114,Markers
+133,1115,Technology applied to
+134,1116,Technology applied to
+135,1117,Technology applied to
+136,135,Technology applied to
+136,1118,Technology applied to
+137,1119,Technology applied to
+138,1120,Technology applied to
+139,1121,Technology applied to
+140,1122,Technology applied to
+141,1123,Technology applied to
+142,1124,Technology applied to
+143,1125,Technology applied to
+144,1126,Technology applied to
+145,1,Technology applied to
+146,1,Technology applied to
+147,1127,Technology applied to
+148,1128,Technology applied to
+149,1129,Technology applied to
+150,1130,Technology applied to
+151,1131,Technology applied to
+152,1132,Technology applied to
+77,1133,Technology applied to
+146,1133,Technology applied to
+153,1134,Technology applied to
+154,1135,Technology applied to
+155,1136,Technology applied to
+156,1137,Technology applied to
+156,1138,Technology applied to
+157,1139,Technology applied to
+156,1140,Technology applied to
+158,1141,Technology applied to
+159,1142,Technology applied to
+160,1143,Technology applied to
+161,1144,Technology applied to
+162,1145,Technology applied to
+163,1146,Technology applied to
+158,1147,Technology applied to
+164,1148,Technology applied to
+165,1149,Technology applied to
+166,1150,Technology applied to
+167,1151,Technology applied to
+168,1152,Technology applied to
+169,1153,Technology applied to
+170,1141,Technology applied to
+171,1154,Technology applied to
+172,1,Technology applied to
+173,1155,Technology applied to
+174,1156,Technology applied to
+77,1157,Technology applied to
+175,1158,Technology applied to
+176,1159,Technology applied to
+177,1160,Technology applied to
+178,1161,Technology applied to
+114,1,Technology applied to
+179,1162,Technology applied to
+180,1163,Technology applied to
+181,1164,Technology applied to
+182,1165,Technology applied to
+183,1166,Technology applied to
+184,1167,Technology applied to
+185,1168,Technology applied to
+186,1169,Technology applied to
+187,1170,Technology applied to
+188,1171,Technology applied to
+189,1172,Technology applied to
+190,1,Technology applied to
+191,1173,Technology applied to
+192,1174,Technology applied to
+193,1175,Technology applied to
+194,1176,Technology applied to
+195,1177,Technology applied to
+196,1,Technology applied to
+197,1178,Technology applied to
+198,1179,Technology applied to
+199,1180,Technology applied to
+200,1181,Technology applied to
+201,1182,Technology applied to
+201,1183,Technology applied to
+202,1184,Technology applied to
+203,1185,Technology applied to
+204,1186,Technology applied to
+205,1187,Technology applied to
+206,1188,Technology applied to
+206,1188,Technology applied to
+207,1189,Technology applied to
+208,1190,Technology applied to
+115,1191,Technology applied to
+199,1192,Technology applied to
+209,1193,Technology applied to
+210,1194,Technology applied to
+211,1195,Technology applied to
+212,1196,Technology applied to
+213,1197,Technology applied to
+214,1198,Technology applied to
+215,1199,Technology applied to
+216,1200,Technology applied to
+199,1201,Technology applied to
+217,1202,Technology applied to
+218,1203,Technology applied to
+219,1204,Technology applied to
+220,1205,Technology applied to
+216,1206,Technology applied to
+221,1207,Technology applied to
+222,1208,Technology applied to
+222,1209,Technology applied to
+222,1210,Technology applied to
+223,1211,Technology applied to
+222,1212,Technology applied to
+224,1213,Technology applied to
+225,1214,Technology applied to
+226,1215,Technology applied to
+227,1216,Technology applied to
+228,1,cause
+229,1217,cause
+230,1218,cause
+231,1219,cause
+232,1220,cause
+233,1,cause
+234,1221,cause
+235,1222,cause
+236,1222,cause
+237,1223,Technology applied to
+238,561,Technology applied to
+238,1224,Technology applied to
+239,1083,Technology applied to
+240,1225,Treatment/Intervention
+241,1226,Treatment/Intervention
+242,1227,Treatment/Intervention
+243,1228,Technology applied to
+244,1229,Technology applied to
+245,1230,Research Units
+246,1231,Research Units
+247,1232,Technology applied to
+248,1233,Treatment/Intervention
+249,1234,Treatment/Intervention
+250,1235,Treatment/Intervention
+251,474,Treatment/Intervention
+252,719,Treatment/Intervention
+253,1236,diagnosis
+254,1237,diagnosis
+255,1237,diagnosis
+254,1237,diagnosis
+255,1237,diagnosis
+256,1238,diagnosis
+257,1239,diagnosis
+258,1240,diagnosis
+259,1241,diagnosis
+260,1242,diagnosis
+261,1243,diagnosis
+262,1244,diagnosis
+263,1245,diagnosis
+264,1245,diagnosis
+265,1245,diagnosis
+266,336,diagnosis
+267,336,diagnosis
+268,1246,diagnosis
+269,1247,diagnosis
+270,1248,diagnosis
+271,1249,diagnosis
+272,1250,diagnosis
+240,1251,diagnosis
+273,1252,Treatment/Intervention
+274,1253,cause
+275,1254,Effect
+276,1255,Effect
+277,1256,Effect
+276,1257,Effect
+278,1258,Technology applied to
+279,1259,Treatment/Intervention
+199,1260,Research Results
+280,1261,Research Results
+281,1262,Research Results
+282,1,Treatment/Intervention
+283,1,Treatment/Intervention
+284,1,Treatment/Intervention
+285,1,Treatment/Intervention
+286,1,Treatment/Intervention
+287,1,Treatment/Intervention
+288,1,Treatment/Intervention
+289,1263,Technology applied to
+290,1264,Technology applied to
+190,1265,Treatment/Intervention
+291,1266,Features
+291,1267,Features
+292,1268,Treatment/Intervention
+293,1269,Treatment/Intervention
+222,1270,Technology applied to
+222,1271,Technology applied to
+222,1272,Technology applied to
+222,1273,Technology applied to
+222,1274,Technology applied to
+77,1275,Technology applied to
+294,1276,Treatment/Intervention
+295,1277,Treatment/Intervention
+296,1,cause
+297,1278,cause
+298,1279,cause
+299,1280,Treatment/Intervention
+300,1281,Treatment/Intervention
+301,1282,Treatment/Intervention
+302,497,cause
+303,599,cause
+199,1283,cause
+304,1284,cause
+305,1,cause
+306,1285,Technology applied to
+307,1286,Treatment/Intervention
+308,1287,Treatment/Intervention
+309,1288,Treatment/Intervention
+310,1,Treatment/Intervention
+311,1,Treatment/Intervention
+312,1,Treatment/Intervention
+313,1289,cause
+313,1289,cause
+313,1290,cause
+314,1291,cause
+315,1292,cause
+316,1,cause
+316,1293,cause
+317,1294,cause
+318,1295,cause
+319,1296,Treatment/Intervention
+320,1,Treatment/Intervention
+321,1,Treatment/Intervention
+299,1297,Treatment/Intervention
+322,1298,Treatment/Intervention
+269,1,Treatment/Intervention
+323,1299,cause
+323,1300,cause
+324,1301,disease
+325,1302,Treatment/Intervention
+326,1303,Technology applied to
+327,1304,Technology applied to
+328,1305,Treatment/Intervention
+329,1306,Treatment/Intervention
+330,1307,Influencing factors
+331,1308,Treatment/Intervention
+332,1309,Difficulties and Pain Points
+324,1,symptom
+333,1,Treatment/Intervention
+334,1,Treatment/Intervention
+335,1310,Research Units
+336,1311,Effect
+337,79,Technology applied to
+228,1312,cause
+338,339,definition
+201,1313,Features
+324,1,Features
+1,1314,Features
+1,1315,Features
+1,1316,Features
+1,1316,Features
+1,1317,Features
+1,1318,Features
+1,1319,Features
+1,1320,Features
+1,1319,Features
+1,1321,Features
+1,1319,Features
+1,1322,Features
+1,1323,Features
+1,1324,Features
+1,1325,Features
+1,1319,Features
+1,1326,Features
+339,1327,Features
+340,1328,Features
+341,1329,Features
+342,1330,Features
+343,1331,Technology applied to
+344,1332,Pain points and difficulties
+345,1333,Related
+346,1334,Related
+347,1335,Related
+348,1336,Related
+349,319,Related
+348,1337,Related
+350,1338,Related
+351,1339,Related
+352,711,Related
+353,1340,Related
+354,1083,Related
+355,1341,Related
+356,1342,Related
+356,1342,Related
+357,1343,Related
+358,1344,Related
+359,1345,Related
+65,1346,Related
+65,1347,Related
+65,1348,Related
+360,1349,Related
+361,1350,Related
+362,1351,Related
+363,1352,Related
+364,1353,Related
+365,609,Related
+365,609,Related
+366,1354,Related
+367,421,Related
+368,1355,Related
+369,1356,Related
+370,561,Related
+371,1357,Related
+372,1358,Related
+373,1359,Related
+374,1360,Related
+375,1360,Related
+376,1361,Related
+377,1361,Related
+378,1360,Related
+379,1360,Related
+380,1362,Related
+381,1363,Related
+382,1364,Related
+383,1365,Related
+384,1366,Related
+384,1367,Related
+384,1368,Related
+384,1369,Related
+146,1370,Related
+385,1371,Related
+386,1372,Related
+387,1373,Related
+388,1374,Related
+389,1375,Related
+390,1376,Related
+1,1377,Related
+1,1378,Related
+1,1379,Related
+1,1380,Related
+1,1381,Related
+1,1382,Related
+1,1383,Related
+1,79,Related
+1,1384,Related
+339,1385,Related
+339,1386,Related
+391,1387,Related
+392,1388,Related
+79,1389,Related
+79,1390,Related
+280,220,Related
+393,1391,Related
+394,1392,Related
+395,1393,Related
+396,1394,Related
+397,1395,Related
+65,1396,Related
+377,1397,Related
+398,1398,Related
+399,1399,Related
+400,1400,Related
+401,1400,Related
+402,1400,Related
+403,1401,Related
+220,1402,Related
+404,1403,Related
+405,1,Related
+406,1404,Related
+407,1405,Related
+201,1406,Related
+201,1407,Related
+408,1408,Related
+409,1409,Related
+410,1410,Related
+411,1411,Related
+412,1412,Related
+413,1413,Related
+414,1414,Related
+414,1414,Related
+269,1415,Related
+415,1416,Related
+416,1417,Related
+417,1418,Related
+418,1,Related
+419,1,Related
+420,1419,Related
+421,1420,Related
+422,1421,Related
+423,1422,Related
+424,1423,Related
+425,220,Related
+426,1424,Related
+427,1425,Related
+428,1426,Related
+429,1426,Related
+280,1427,Related
+430,1428,Related
+199,1429,Related
+431,1430,Effect
+432,1431,Effect
+433,1432,Effect
+434,1433,Effect
+435,1434,Effect
+436,1435,Effect
+437,1435,Effect
+438,1435,Effect
+439,1435,Effect
+440,1436,Effect
+441,1437,Effect
+440,1438,Effect
+442,1439,Effect
+157,1440,Effect
+443,1441,Effect
+444,1442,Effect
+437,1443,Effect
+445,1444,Effect
+446,1445,Effect
+447,1,Effect
+448,1446,Effect
+114,1447,Effect
+449,1448,Effect
+449,1449,Effect
+437,1450,Effect
+450,1451,Effect
+449,1452,Effect
+451,1453,Effect
+452,1454,Effect
+453,1455,Effect
+454,1456,Effect
+336,1457,Effect
+455,1458,Research Results
+456,1,Research Results
+457,1459,Research Results
+458,1460,Research Units
+459,1461,Research Hotspots
+460,1462,cause
+461,1463,cause
+462,1464,cause
+40,1465,cause
+463,1466,cause
+464,1467,cause
+465,1468,cause
+466,1,cause
+467,1469,cause
+468,1470,cause
+79,1471,cause
+79,1472,cause
+469,1473,cause
+397,1474,cause
+397,1474,cause
+470,1475,cause
+471,1476,cause
+472,1477,cause
+473,1478,cause
+474,1479,cause
+475,1480,cause
+462,1481,cause
+476,1482,cause
+477,1483,cause
+478,1484,cause
+479,1485,cause
+480,1486,cause
+481,1487,cause
+482,1488,cause
+483,1489,cause
+484,1490,cause
+485,1491,cause
+486,1492,cause
+487,1493,cause
+488,1494,cause
+489,280,cause
+490,1495,cause
+490,1495,cause
+491,1496,cause
+126,1497,cause
+126,1498,cause
+126,1499,cause
+127,1497,cause
+127,1498,cause
+127,1499,cause
+128,1497,cause
+128,1498,cause
+128,1499,cause
+492,1500,cause
+493,1501,cause
+494,1502,cause
+495,1503,cause
+496,1504,cause
+497,1505,cause
+498,1506,cause
+497,1507,cause
+497,1508,cause
+499,1509,cause
+500,1510,cause
+501,1511,cause
+502,1512,cause
+503,1513,cause
+504,1514,cause
+505,1515,cause
+506,421,cause
+507,484,cause
+405,1,cause
+508,1,cause
+509,346,cause
+329,1516,cause
+510,421,cause
+511,1517,cause
+512,1518,cause
+513,1519,cause
+514,484,cause
+515,1520,cause
+516,1,cause
+517,1521,cause
+517,1521,cause
+518,1522,cause
+519,1523,cause
+520,1524,cause
+521,1,cause
+522,1525,cause
+523,1,cause
+368,366,cause
+523,1,cause
+368,366,cause
+524,1526,cause
+525,1527,cause
+525,1528,cause
+525,1529,cause
+526,1530,cause
+527,366,cause
+497,421,cause
+421,1531,cause
+527,1495,cause
+528,1532,cause
+529,1532,cause
+530,1532,cause
+531,1532,cause
+532,1533,cause
+533,1220,cause
+534,421,cause
+535,1534,cause
+536,1535,cause
+537,1536,cause
+538,1537,cause
+537,1538,cause
+538,1539,cause
+539,960,cause
+421,1300,cause
+421,1047,cause
+540,1047,cause
+541,1540,cause
+540,1541,cause
+542,1542,cause
+543,1543,cause
+544,497,cause
+545,1544,cause
+546,1047,cause
+547,1545,cause
+548,1546,cause
+549,1547,cause
+550,1548,cause
+551,1549,cause
+497,1220,cause
+552,1545,cause
+553,1550,cause
+554,1551,cause
+555,1552,cause
+556,1553,cause
+557,1495,cause
+558,1554,cause
+559,1555,cause
+560,1556,cause
+561,1557,cause
+562,1558,cause
+563,1559,cause
+564,1560,cause
+565,1561,cause
+566,1562,cause
+567,1563,cause
+568,1564,cause
+569,1565,cause
+570,1566,cause
+571,1567,cause
+572,1568,cause
+573,1532,cause
+574,1569,cause
+575,1570,cause
+576,1571,cause
+577,1572,cause
+561,1557,cause
+474,1573,cause
+578,579,cause
+579,1,cause
+561,1574,cause
+580,1575,cause
+581,1532,cause
+474,1576,cause
+421,1577,cause
+561,1,cause
+582,1047,cause
+583,609,cause
+546,1047,cause
+546,497,cause
+584,1557,cause
+585,1578,cause
+497,1579,cause
+474,1580,cause
+474,1220,cause
+561,1557,cause
+586,575,cause
+586,1532,cause
+421,599,cause
+474,1581,cause
+561,1557,cause
+587,1582,cause
+228,1468,cause
+588,497,cause
+589,1468,cause
+590,1583,cause
+591,1584,cause
+421,233,cause
+421,1585,cause
+421,1586,cause
+592,373,cause
+593,373,cause
+594,373,cause
+595,373,cause
+596,1587,cause
+597,1588,cause
+598,1589,cause
+274,1590,cause
+599,1591,cause
+600,1592,cause
+542,1593,cause
+79,1594,cause
+505,1047,cause
+601,302,cause
+474,1047,cause
+474,1595,cause
+602,1,cause
+474,1596,cause
+603,1468,cause
+474,1047,cause
+604,1,cause
+605,1597,cause
+79,421,cause
+527,1598,cause
+1,1599,cause
+484,1322,cause
+606,1600,cause
+329,1601,cause
+79,484,cause
+79,1389,cause
+497,1602,cause
+497,1603,cause
+607,497,cause
+608,1279,cause
+609,1604,cause
+355,1605,cause
+355,1605,cause
+610,228,cause
+611,1606,cause
+612,484,cause
+577,1607,cause
+79,1608,cause
+527,1609,cause
+613,1610,cause
+79,1389,cause
+614,1611,cause
+421,1612,cause
+615,1613,cause
+80,1614,cause
+562,1615,cause
+372,1495,cause
+80,1616,cause
+616,1617,cause
+561,1618,cause
+497,1579,cause
+617,1608,cause
+618,1619,cause
+421,1300,cause
+118,1495,cause
+118,1493,cause
+619,1620,cause
+1,1621,cause
+620,1622,cause
+613,1623,cause
+621,303,cause
+622,1624,cause
+623,1625,cause
+624,1626,cause
+79,1608,cause
+625,1627,cause
+421,1628,cause
+582,1629,cause
+626,1630,cause
+627,1631,cause
+628,1495,cause
+629,1632,cause
+79,1633,cause
+630,1634,cause
+631,1635,cause
+74,1636,cause
+474,1637,cause
+79,1638,cause
+79,1639,cause
+79,1639,cause
+79,1389,cause
+632,1220,cause
+633,1640,cause
+634,1637,cause
+634,1641,cause
+635,1,cause
+342,1642,cause
+527,1643,cause
+636,1644,cause
+637,1361,cause
+527,1645,cause
+638,1646,cause
+639,1647,cause
+477,1648,cause
+640,1649,cause
+641,1,cause
+642,1,cause
+263,1,cause
+264,1,cause
+15,1,cause
+643,1650,cause
+644,1651,cause
+645,1493,cause
+646,1652,cause
+647,1653,cause
+263,1654,cause
+264,1654,cause
+642,1654,cause
+130,1655,cause
+15,1655,cause
+264,1655,cause
+648,1655,cause
+263,1656,cause
+642,1656,cause
+649,1468,cause
+527,1288,cause
+650,1288,cause
+651,1288,cause
+652,1288,cause
+527,1288,cause
+650,1288,cause
+651,1288,cause
+653,1288,cause
+654,1,cause
+655,1,cause
+656,1657,cause
+657,1658,cause
+658,1659,cause
+659,1660,Influencing factors
+474,1580,cause
+264,1661,cause
+660,1662,cause
+478,1663,cause
+474,1580,cause
+661,1664,cause
+662,1665,cause
+663,1666,cause
+44,1667,cause
+664,484,cause
+664,1668,cause
+665,1669,cause
+666,1670,principle
+667,1671,principle
+668,1672,principle
+669,1673,principle
+670,1674,principle
+671,1675,principle
+672,1676,principle
+673,1677,principle
+674,1678,reason
+449,79,reason
+675,1679,diagnosis
+676,1680,diagnosis
+677,1681,diagnosis
+678,1682,diagnosis
+679,1683,diagnosis
+201,1684,diagnosis
+201,1685,diagnosis
+201,1683,diagnosis
+680,609,diagnosis
+681,1686,diagnosis
+682,1062,diagnosis
+683,1687,diagnosis
+684,1688,diagnosis
+685,1689,diagnosis
+686,1690,diagnosis
+687,1691,diagnosis
+688,1692,diagnosis
+689,1693,diagnosis
+690,1694,diagnosis
+691,1591,diagnosis
+692,1695,diagnosis
+693,1696,diagnosis
+694,1697,diagnosis
+695,1698,diagnosis
+696,1699,diagnosis
+697,1700,diagnosis
+698,1701,diagnosis
+699,1702,diagnosis
+700,1703,diagnosis
+701,711,diagnosis
+702,1,diagnosis
+703,1704,diagnosis
+704,1704,diagnosis
+705,1705,diagnosis
+706,1,diagnosis
+707,1706,diagnosis
+708,1707,diagnosis
+709,1708,diagnosis
+710,1708,diagnosis
+352,1,diagnosis
+711,1,diagnosis
+712,1,diagnosis
+713,1709,diagnosis
+714,1710,diagnosis
+715,1711,diagnosis
+716,1712,diagnosis
+717,1713,diagnosis
+634,1714,diagnosis
+280,1715,diagnosis
+718,457,diagnosis
+719,1716,diagnosis
+720,1083,diagnosis
+40,1,diagnosis
+721,1,diagnosis
+722,1,diagnosis
+1,1717,diagnosis
+199,1718,diagnosis
+723,1719,diagnosis
+724,1720,Positive correlation
+724,1721,Positive correlation
+725,1721,Positive correlation
+726,1063,Positive correlation
+727,1722,Positive correlation
+711,712,Positive correlation
+728,1723,Positive correlation
+729,1724,Positive correlation
+72,1725,Positive correlation
+730,1,symptom
+731,421,symptom
+732,1726,symptom
+33,1637,symptom
+373,1727,symptom
+733,1,symptom
+734,1728,symptom
+735,1728,symptom
+736,1728,symptom
+737,1729,symptom
+738,497,symptom
+1,497,symptom
+739,1730,symptom
+740,1730,symptom
+741,1730,symptom
+368,1731,symptom
+484,1732,symptom
+742,1733,Treatment/Intervention
+743,1734,Treatment/Intervention
+744,1735,Treatment/Intervention
+745,1736,Treatment/Intervention
+746,1737,Treatment/Intervention
+747,1738,Treatment/Intervention
+748,1739,Treatment/Intervention
+749,1740,Treatment/Intervention
+750,1741,Treatment/Intervention
+751,1742,Treatment/Intervention
+269,1743,Treatment/Intervention
+407,1744,Treatment/Intervention
+752,1745,Treatment/Intervention
+753,1745,Treatment/Intervention
+754,1745,Treatment/Intervention
+755,1746,Treatment/Intervention
+756,1747,Treatment/Intervention
+757,1748,Treatment/Intervention
+758,1749,Treatment/Intervention
+759,348,Treatment/Intervention
+760,499,Treatment/Intervention
+761,1750,Treatment/Intervention
+762,1751,Treatment/Intervention
+763,1752,Treatment/Intervention
+764,1753,Treatment/Intervention
+765,1754,Treatment/Intervention
+766,1753,Treatment/Intervention
+767,1755,Treatment/Intervention
+768,1756,Treatment/Intervention
+769,1757,Treatment/Intervention
+770,1758,Treatment/Intervention
+771,1759,Treatment/Intervention
+771,1760,Treatment/Intervention
+772,1761,Treatment/Intervention
+773,1762,Treatment/Intervention
+774,1753,Treatment/Intervention
+775,1763,Treatment/Intervention
+776,1764,Treatment/Intervention
+268,1765,Treatment/Intervention
+157,1766,Treatment/Intervention
+777,1767,Treatment/Intervention
+268,1768,Treatment/Intervention
+270,1769,Treatment/Intervention
+778,1770,Treatment/Intervention
+269,1771,Treatment/Intervention
+779,1772,Treatment/Intervention
+780,1773,Treatment/Intervention
+781,1774,Treatment/Intervention
+782,1775,Treatment/Intervention
+783,1776,Treatment/Intervention
+784,1777,Treatment/Intervention
+785,1778,Treatment/Intervention
+786,1,Treatment/Intervention
+787,1,Treatment/Intervention
+788,1779,Treatment/Intervention
+789,1780,Treatment/Intervention
+790,1781,Treatment/Intervention
+791,1782,Treatment/Intervention
+113,1783,Treatment/Intervention
+792,1784,Treatment/Intervention
+793,1785,Treatment/Intervention
+446,1062,Treatment/Intervention
+794,1786,Treatment/Intervention
+795,1787,Treatment/Intervention
+796,1788,Treatment/Intervention
+797,1789,Treatment/Intervention
+798,1790,Treatment/Intervention
+799,1791,Treatment/Intervention
+800,1792,Treatment/Intervention
+801,1793,Treatment/Intervention
+802,1794,Treatment/Intervention
+803,1795,Treatment/Intervention
+804,1796,Treatment/Intervention
+805,1797,Treatment/Intervention
+806,1798,Treatment/Intervention
+807,1799,Treatment/Intervention
+808,1800,Treatment/Intervention
+809,1801,Treatment/Intervention
+810,1802,Treatment/Intervention
+811,1803,Treatment/Intervention
+812,1804,Treatment/Intervention
+813,1805,Treatment/Intervention
+814,1806,Treatment/Intervention
+815,1807,Treatment/Intervention
+816,1808,Treatment/Intervention
+279,1809,Treatment/Intervention
+817,1810,Treatment/Intervention
+818,1811,Treatment/Intervention
+819,1812,Treatment/Intervention
+95,1813,Treatment/Intervention
+96,1813,Treatment/Intervention
+97,1813,Treatment/Intervention
+816,1814,Treatment/Intervention
+820,1815,Treatment/Intervention
+821,1816,Treatment/Intervention
+822,1817,Treatment/Intervention
+823,1818,Treatment/Intervention
+672,1819,Treatment/Intervention
+824,1820,Treatment/Intervention
+825,1821,Treatment/Intervention
+826,1822,Treatment/Intervention
+827,1823,Treatment/Intervention
+828,1824,Treatment/Intervention
+829,1825,Treatment/Intervention
+830,1826,Treatment/Intervention
+320,1827,Treatment/Intervention
+831,1828,Treatment/Intervention
+264,1829,Treatment/Intervention
+15,1829,Treatment/Intervention
+642,1829,Treatment/Intervention
+126,1830,Treatment/Intervention
+127,1830,Treatment/Intervention
+128,1830,Treatment/Intervention
+832,1831,Treatment/Intervention
+833,1832,Treatment/Intervention
+114,1833,Treatment/Intervention
+834,1834,Treatment/Intervention
+835,1835,Treatment/Intervention
+115,1836,Treatment/Intervention
+836,1837,Treatment/Intervention
+837,1838,Treatment/Intervention
+270,1839,Treatment/Intervention
+838,1840,Treatment/Intervention
+839,1,Treatment/Intervention
+840,1841,Treatment/Intervention
+841,1842,Treatment/Intervention
+842,1843,Treatment/Intervention
+843,1,Treatment/Intervention
+844,373,Treatment/Intervention
+845,1,Treatment/Intervention
+846,1844,Treatment/Intervention
+847,1845,Treatment/Intervention
+847,1846,Treatment/Intervention
+801,1847,Treatment/Intervention
+848,1848,Treatment/Intervention
+799,1849,Treatment/Intervention
+849,1850,Treatment/Intervention
+850,1851,Treatment/Intervention
+850,1851,Treatment/Intervention
+851,1852,Treatment/Intervention
+319,1853,Treatment/Intervention
+852,1854,Treatment/Intervention
+853,1855,Treatment/Intervention
+854,1288,Treatment/Intervention
+854,1288,Treatment/Intervention
+855,1856,Treatment/Intervention
+856,1857,Treatment/Intervention
+857,1858,Treatment/Intervention
+126,1859,Treatment/Intervention
+127,1859,Treatment/Intervention
+128,1859,Treatment/Intervention
+858,1860,Treatment/Intervention
+858,1861,Treatment/Intervention
+859,1862,Treatment/Intervention
+860,1863,Treatment/Intervention
+861,1864,Treatment/Intervention
+862,1865,Treatment/Intervention
+863,1866,Treatment/Intervention
+800,1867,Treatment/Intervention
+319,1867,Treatment/Intervention
+864,1868,Treatment/Intervention
+865,1868,Treatment/Intervention
+866,1868,Treatment/Intervention
+867,1869,Treatment/Intervention
+437,1870,Treatment/Intervention
+749,1871,Treatment/Intervention
+868,1872,Treatment/Intervention
+869,1873,Treatment/Intervention
+250,1874,Treatment/Intervention
+870,1875,Treatment/Intervention
+871,1876,Treatment/Intervention
+872,1877,Treatment/Intervention
+766,1878,Treatment/Intervention
+819,1879,Treatment/Intervention
+819,1879,Treatment/Intervention
+873,1880,Treatment/Intervention
+819,1881,Treatment/Intervention
+874,1,Treatment/Intervention
+253,1882,Treatment/Intervention
+875,1495,Treatment/Intervention
+875,1493,Treatment/Intervention
+876,1883,Treatment/Intervention
+796,1884,Treatment/Intervention
+877,1885,Treatment/Intervention
+762,1886,Treatment/Intervention
+878,1887,Treatment/Intervention
+822,1888,Treatment/Intervention
+879,1889,Treatment/Intervention
+749,1890,Treatment/Intervention
+880,1891,Treatment/Intervention
+881,1892,Treatment/Intervention
+882,1893,Treatment/Intervention
+883,1894,Treatment/Intervention
+884,1895,Treatment/Intervention
+885,1896,Treatment/Intervention
+772,1897,Treatment/Intervention
+772,1898,Treatment/Intervention
+886,1899,Treatment/Intervention
+887,1900,Treatment/Intervention
+888,1894,Treatment/Intervention
+268,1901,Treatment/Intervention
+268,1902,Treatment/Intervention
+822,1903,Treatment/Intervention
+270,1904,Treatment/Intervention
+157,1905,Treatment/Intervention
+778,1906,Treatment/Intervention
+889,1,Treatment/Intervention
+847,1907,Treatment/Intervention
+778,1908,Treatment/Intervention
+847,1907,Treatment/Intervention
+880,1,Treatment/Intervention
+890,1909,Treatment/Intervention
+891,1910,Treatment/Intervention
+892,1911,Treatment/Intervention
+893,1912,Treatment/Intervention
+894,1913,Treatment/Intervention
+895,1914,Treatment/Intervention
+896,1915,Treatment/Intervention
+875,1916,Treatment/Intervention
+897,1917,Treatment/Intervention
+898,1918,Treatment/Intervention
+643,1919,Treatment/Intervention
+899,1920,Treatment/Intervention
+320,1921,Treatment/Intervention
+900,1922,Treatment/Intervention
+901,1923,Treatment/Intervention
+128,1,Treatment/Intervention
+127,1,Treatment/Intervention
+126,1,Treatment/Intervention
+902,421,Treatment/Intervention
+79,421,Treatment/Intervention
+903,1924,Treatment/Intervention
+250,1925,Treatment/Intervention
+904,1926,Treatment/Intervention
+905,1927,Treatment/Intervention
+906,1928,Treatment/Intervention
+250,1929,Treatment/Intervention
+907,1930,Treatment/Intervention
+908,1931,Treatment/Intervention
+766,1932,Treatment/Intervention
+909,1933,Treatment/Intervention
+910,1934,Treatment/Intervention
+911,1935,Treatment/Intervention
+912,1,Treatment/Intervention
+913,1936,Treatment/Intervention
+914,1937,Treatment/Intervention
+915,1938,Treatment/Intervention
+916,1,Treatment/Intervention
+917,1939,Treatment/Intervention
+830,1940,Treatment/Intervention
+918,1941,Treatment/Intervention
+320,1942,Treatment/Intervention
+919,1943,Treatment/Intervention
+280,1944,Treatment/Intervention
+393,1945,Treatment/Intervention
+115,1946,Treatment/Intervention
+115,1947,Treatment/Intervention
+850,1926,Treatment/Intervention
+850,1948,Treatment/Intervention
+920,1949,Treatment/Intervention
+921,1,Treatment/Intervention
+922,1950,Treatment/Intervention
+800,1951,Treatment/Intervention
+923,1952,Treatment/Intervention
+924,1953,Treatment/Intervention
+925,1954,Treatment/Intervention
+926,1955,Treatment/Intervention
+927,1956,Treatment/Intervention
+928,1957,Treatment/Intervention
+319,1958,Treatment/Intervention
+800,1959,Treatment/Intervention
+861,1960,Treatment/Intervention
+929,1,Treatment/Intervention
+930,1961,Treatment/Intervention
+801,1962,Treatment/Intervention
+931,1963,Treatment/Intervention
+842,1964,Treatment/Intervention
+842,1965,Treatment/Intervention
+932,1966,Treatment/Intervention
+444,1,Treatment/Intervention
+437,1,Treatment/Intervention
+933,1967,Treatment/Intervention
+934,1968,Treatment/Intervention
+264,1968,Treatment/Intervention
+935,1969,Treatment/Intervention
+936,1970,Treatment/Intervention
+937,1971,Treatment/Intervention
+114,1972,Treatment/Intervention
+842,1973,Treatment/Intervention
+1,114,Treatment/Intervention
+894,1974,Treatment/Intervention
+938,1,Treatment/Intervention
+939,1975,Treatment/Intervention
+762,1976,Treatment/Intervention
+940,1977,Treatment/Intervention
+941,1978,Treatment/Intervention
+44,1580,Treatment/Intervention
+942,1979,Treatment/Intervention
+934,1980,Treatment/Intervention
+642,1981,Treatment/Intervention
+474,1047,Treatment/Intervention
+44,1982,Treatment/Intervention
+634,1047,Treatment/Intervention
+943,1983,Treatment/Intervention
+130,1984,Treatment/Intervention
+933,1985,Treatment/Intervention
+944,1986,Treatment/Intervention
+322,1987,Treatment/Intervention
+940,1988,Treatment/Intervention
+945,1989,Treatment/Intervention
+946,1990,Treatment/Intervention
+947,1991,Treatment/Intervention
+948,1,Treatment/Intervention
+949,1992,Treatment/Intervention
+950,1993,Treatment/Intervention
+951,1,Treatment/Intervention
+157,1994,Treatment/Intervention
+15,1995,Treatment/Intervention
+952,1995,Treatment/Intervention
+269,1996,Treatment/Intervention
+822,1997,Treatment/Intervention
+268,1998,Treatment/Intervention
+953,1999,Treatment/Intervention
+954,2000,Treatment/Intervention
+320,54,Treatment/Intervention
+269,2001,Treatment/Intervention
+955,2002,Treatment/Intervention
+907,2003,Treatment/Intervention
+956,1,Treatment/Intervention
+522,1083,Treatment/Intervention
+522,2004,Treatment/Intervention
+522,1083,Treatment/Intervention
+957,1968,Treatment/Intervention
+958,2005,Treatment/Intervention
+959,497,Treatment/Intervention
+960,960,Treatment/Intervention
+259,2006,Treatment/Intervention
+961,2006,Treatment/Intervention
+962,2007,Treatment/Intervention
+963,2008,Treatment/Intervention
+964,960,Treatment/Intervention
+259,2006,Treatment/Intervention
+961,2009,Treatment/Intervention
+965,2010,Treatment/Intervention
+157,2011,Treatment/Intervention
+157,2012,Treatment/Intervention
+157,1803,Treatment/Intervention
+157,2013,Treatment/Intervention
+114,2014,Treatment/Intervention
+157,2015,Treatment/Intervention
+157,2016,Treatment/Intervention
+157,2017,Treatment/Intervention
+157,1493,Treatment/Intervention
+157,2018,Treatment/Intervention
+157,2019,Treatment/Intervention
+966,2020,Treatment/Intervention
+966,2021,Treatment/Intervention
+966,2022,Treatment/Intervention
+967,2023,Treatment/Intervention
+751,2024,Treatment/Intervention
+968,2025,Treatment/Intervention
+969,2026,Treatment/Intervention
+970,2027,Treatment/Intervention
+748,2028,Treatment/Intervention
+165,2029,Treatment/Intervention
+971,1493,Treatment/Intervention
+972,2030,Treatment/Intervention
+973,2031,Treatment/Intervention
+268,1,Treatment/Intervention
+974,2032,Treatment/Intervention
+268,2033,Treatment/Intervention
+269,2034,Treatment/Intervention
+268,2035,Treatment/Intervention
+975,2036,Treatment/Intervention
+976,2037,Treatment/Intervention
+269,2038,Treatment/Intervention
+977,2039,Treatment/Intervention
+977,2040,Treatment/Intervention
+978,2041,Treatment/Intervention
+978,2042,Treatment/Intervention
+745,2043,Treatment/Intervention
+979,2044,Treatment/Intervention
+980,1047,Treatment/Intervention
+980,2045,Treatment/Intervention
+979,2046,Treatment/Intervention
+978,2047,Treatment/Intervention
+981,2048,Treatment/Intervention
+88,421,Treatment/Intervention
+114,1,Treatment/Intervention
+872,2049,Treatment/Intervention
+766,2050,Treatment/Intervention
+982,2050,Treatment/Intervention
+983,2051,Treatment/Intervention
+984,2052,Treatment/Intervention
+985,2053,Treatment/Intervention
+904,1047,Treatment/Intervention
+986,587,Treatment/Intervention
+987,421,Treatment/Intervention
+988,2019,Treatment/Intervention
+989,2054,Treatment/Intervention
+114,1,Treatment/Intervention
+990,1,Treatment/Intervention
+991,2055,Treatment/Intervention
+992,2056,Treatment/Intervention
+993,1,Treatment/Intervention
+766,2057,Treatment/Intervention
+994,2058,Treatment/Intervention
+995,2059,Treatment/Intervention
+996,1,Treatment/Intervention
+79,2060,Treatment/Intervention
+997,2061,Treatment/Intervention
+998,1,Treatment/Intervention
+999,1,Treatment/Intervention
+1000,1,Treatment/Intervention
+316,1003,lead to
+316,1002,lead to
+316,1538,lead to
+316,2062,lead to
+316,1425,lead to
+316,2063,lead to
+316,2064,lead to
+316,2065,lead to
+316,2066,Treatment/Intervention
+316,2067,Treatment/Intervention
+316,942,Treatment/Intervention
+316,2068,Treatment/Intervention
+316,2069,Treatment/Intervention
+316,2070,Treatment/Intervention
+316,2071,Treatment/Intervention
+316,868,Treatment/Intervention
+316,939,Treatment/Intervention
+316,2072,Treatment/Intervention
+316,114,Treatment/Intervention
+316,2073,Treatment/Intervention
+316,2074,Treatment/Intervention
+316,2075,Treatment/Intervention
+316,2076,Treatment/Intervention
+316,2077,Treatment/Intervention
+316,2078,Treatment/Intervention
+316,2079,Treatment/Intervention
+261,1495,Related
+261,1493,Related
+261,1001,Related
+261,2080,Related
+261,2081,Related
+261,2082,Related
+1001,1,Related
+261,2083,Related
+261,2084,Related
+261,2085,Related
+261,907,Related
+1002,2086,lead to
+1002,1522,lead to
+1002,2087,lead to
+1002,2088,lead to
+1002,1004,lead to
+1002,2089,lead to
+1002,2090,lead to
+1003,2086,lead to
+1003,2063,lead to
+1003,2091,lead to
+1003,2092,lead to
+1003,2093,lead to
+1003,2094,lead to
+1003,2095,lead to
+1003,1543,lead to
+1003,2096,lead to
+1003,2097,lead to
+1003,2098,lead to
+1003,2099,lead to
+1003,2100,lead to
+1004,2086,lead to
+1004,1,lead to
+1004,2101,lead to
+1004,2102,lead to
+1004,2100,lead to
+1004,2103,lead to
+1004,2104,lead to
+1004,2105,lead to
+1004,2106,lead to
+1004,2107,lead to
+1004,1585,lead to
+1004,2108,Related
+1004,2109,Related
+1004,2110,Related
+1004,497,Related
+1004,1,Related
+1004,2111,Related
+1004,2112,Related
+1004,2107,Related
+1004,2113,Related
+1004,2114,Related
+1004,2115,Related
+1004,2116,Related
+1004,2117,Treatment/Intervention
+1004,2118,Treatment/Intervention
+1004,114,Treatment/Intervention
+1004,939,Treatment/Intervention
+1004,2119,Treatment/Intervention
+1004,2072,Treatment/Intervention
+1004,2120,Treatment/Intervention
+1004,2121,Treatment/Intervention
+1004,2122,Treatment/Intervention
+1004,2123,Treatment/Intervention
+1004,2124,Treatment/Intervention
